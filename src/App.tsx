@@ -15,9 +15,6 @@ import { storage } from "./utils/storage";
 import { CommandPalette } from "./components/CommandPalette";
 import { questionCache } from "./utils/questionCache";
 
-// Configuration
-const TEST_QUESTION_COUNT = 100;
-
 interface Question {
   question: string;
   answers: string[];
@@ -49,8 +46,8 @@ function App() {
   const [sessions, setSessions] = useState<Session[]>([]);
   const [currentSession, setCurrentSession] = useState<Session | null>(null);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
+  const [testQuestionCount, setTestQuestionCount] = useState(100);
   const [isHelpOpen, setIsHelpOpen] = useState(false);
-
   const [isCommandPaletteOpen, setIsCommandPaletteOpen] = useState(false);
   const [isViewMode, setIsViewMode] = useState(false);
   const [previousQuestionIndex, setPreviousQuestionIndex] = useState<
@@ -574,7 +571,7 @@ function App() {
                 <button
                   className="w-full py-3 rounded-[14px] bg-[var(--ios-blue-light)] text-[var(--ios-blue)]"
                   onClick={() => {
-                    createNewSession(TEST_QUESTION_COUNT, true);
+                    createNewSession(testQuestionCount, true);
                   }}
                 >
                   Take Test Again
@@ -771,12 +768,35 @@ function App() {
             <Dialog.Overlay className="fixed inset-0 bg-black/50" />
             <Dialog.Content className="fixed bottom-[100px] left-1/2 -translate-x-1/2 w-[90%] max-w-md p-6 rounded-[18px] bg-[var(--ios-card-background)] border border-[var(--ios-border)] shadow-lg text-[var(--ios-text)]">
               <Dialog.Title className="text-[22px] mb-4">Settings</Dialog.Title>
+              
+              <div className="space-y-4 mb-3">
+                <div>
+                  <label className="text-[15px] text-[var(--ios-text-secondary)]">
+                    Test Question Count
+                  </label>
+                  <input
+                    type="number"
+                    value={testQuestionCount}
+                    onChange={(e) => {
+                      const value = Math.max(
+                        1,
+                        Math.min(questions.length, Number(e.target.value))
+                      );
+                      setTestQuestionCount(value);
+                    }}
+                    className="w-full mt-1 px-4 py-2 rounded-[10px] bg-[var(--ios-background)] border border-[var(--ios-border)] text-[var(--ios-text)]"
+                    min="1"
+                    max={questions.length}
+                    placeholder="Enter number of questions"
+                  />
+                </div>
+              </div>
 
               <div className="space-y-4">
                 <div className="flex flex-col gap-3">
                   <button
                     onClick={() => {
-                      createNewSession(TEST_QUESTION_COUNT, true);
+                      createNewSession(testQuestionCount, true);
                       setIsSettingsOpen(false);
                     }}
                     className="w-full py-3 rounded-[14px] bg-[var(--ios-blue-light)] text-[var(--ios-blue)] text-[17px]"
