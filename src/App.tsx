@@ -16,12 +16,12 @@ import { CommandPalette } from "./components/CommandPalette";
 import { questionCache } from "./utils/questionCache";
 
 // Configuration
-const TEST_QUESTION_COUNT = 10;
+const TEST_QUESTION_COUNT = 100;
 
 interface Question {
   question: string;
   answers: string[];
-  correct: string; // Can be like "a", "bc", "ad", or a direct answer
+  correct: string;
 }
 
 function App() {
@@ -36,7 +36,7 @@ function App() {
   );
   const [showReview, setShowReview] = useState(false);
   const [gameOver, setGameOver] = useState(false);
-  const [numberOfQuestions, setNumberOfQuestions] = useState<number | "all">(
+  const [numberOfQuestions] = useState<number | "all">(
     "all"
   );
   const [isDark, setIsDark] = useState(false);
@@ -359,6 +359,12 @@ function App() {
     setWrongAnswers([]);
     setShowReview(false);
     setGameOver(false);
+    setSelectedAnswer("");
+    setTextAnswer("");
+    setIsAnswerSubmitted(false);
+    setFocusedAnswerIndex(-1);
+    setIsViewMode(false);
+    setPreviousQuestionIndex(null);
   };
 
   const resumeSession = (session: Session) => {
