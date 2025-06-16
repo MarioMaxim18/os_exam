@@ -1,0 +1,7970 @@
+﻿[
+  {
+    "question": "Schimbul de informatii cu memoria are ca politica de plasare metoda First-fit",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prevenirea impasul se face prin alocarea controlata de resurse.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prima generatie de calculatoare aparuta in anii 1940 avea sistem de operare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Utilitarul awk are functii predefinite precum : length(sir), substr(s,p,n), split(s,a,c)",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a afla tipul fisierului se da comanda \"file numefis\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Optiunea -i de la grep nu va face diferenta intre litere mari si litere mici la cautare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fiecare fisier are un i-nod (i-node sau inode in engleza, abreviere de la Information Node) asociat, care contine aproape toate informatiile legate de acel fisier, mai putin continutul si numele.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Metoda NRU (Not Recently Used) este o metoda din cadrul politicilor de inlocuire ale paginilor de memorie operativa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru receptionarea postei electronice la destinatar se pot folosi comenzile: mail, mailx, sau utilitarul pine.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sort -n compara liniile numeric",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "/var', '/boot', '/dev' si '/lib' sunt singurele directoare principale ale sistemului de fisiere UNIX.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"touch eu\" creeaza un fisier cu numele \"eu\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "read(fd, sir, 10) - va returna o eroare in cazul in care in fisier exista mai putin de 10 octeti.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In cazul alocarii dinamice de memorie un proces poate fi alocat mai multe partitii, dar nu mai mult de 3.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Prin comanda \"echo calculator >>numefis\" se adauga la sfarsitul fisierului \"numefis\" secventa de caractere \"calculator\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "test 1 -ne 1 va returna valoarea 1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea generica se face folosind: \" * , ? , [sir] , [!sir] \".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "La atribuirea unei valori unei variabile shell nu se lasa spatiu inainte de = sau dupa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, functia predefinita index(s1,s2) returneaza indexul la care sirul s2 apare in s1 sau 0 daca acesta nu apare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep vine de la expresia englez\u0103 \"global/regular expression/print\" care s-ar traduce prin: \"tip\u0103re\u015fte expresie regulat\u0103 global\u0103\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "echo ceva |sed 's/[^abce]/X/' va afisa dupa executare cuvantul \"ceXa\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "mkfifo fisier - creeaza un fisier FIFO.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prin comanda cat este afisat continutul unui fisier cu posibilitatea ca utilizatorul sa se plimbe in sus sau in jos in fisierul respectiv.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sort -m interclaseaza fisierele de intrare",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Accesul la disc se face in 2 etape : pozitionarea bratului pe cilindrul dorit si schimbul propriu-zis de informatie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep if fis1 fis2 - afiseaza toate liniile din fis1 si fis2 care contin secventa \"if\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"touch\" creeaza un director?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda pwd afiseaza continutul unui fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In: c1||c2, c2 se executa doar in cazul in care c1 s-a terminat cu insucces.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "CPU verifica mai intai daca datele invocate se afla in memoria operativa, abia apoi verifica memoria cache.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Principiul structurii arborescente este ca fiecare fisier sau director are un singur parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Tabela FAT contine informatii de alocare a spatiului pe disc pentru fiecare fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fiecare sistem de orperare are un mod propriu de a-si organiza datele pe hard disk.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$= indica argumentul ce contine optiunile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: for(i=1 ; i<= 10; i++ ) fork (); - ceeaza 2 la puterea 10 procese.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed 's/^\\([a-z]*\\) \\([a-z]*\\) \\([a-z]*\\)/\\3 \\2 \\1/ g' numefis - afiseaza in ordina inversa primele trei cuvinte din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, length(sir) nu este o functie predefinita.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "[ -z string ] verifica daca string este gol.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, prin int t[123] se realizeaza o alocare statica.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"echo abcd efg | sed 's/\\([a-z]*\\) \\([a-z]*\\)/\\1\\2 /'\" sterge spatiul dintre cuvinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed '1,10 instructiune' fis - executa instructiune asupra liniilor de la 1 la 10.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Blocarea excessiva a fisierului inseamna ca un singur proces are acces la fisier sau la portiunea din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "$2 - returneaza al doilea parametru din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "cat' afiseaza continutul unui director.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Folosirea in mod exclusiv a acelorasi resurse de catre mai multe procese concurente poate duce la impas.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "stderr=2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep fi$ fis1 fis2 - afiseaza liniile din fis1 si fis2 care se termina cu cuvantul \"fi\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Deschiderea unui fisier este operatia prin care fisierul este pregatit pentru a putea fi prelucrat in continuare, aceasta realizandu-se prin functia open.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Negatia lui [sir_caractere] se scrie ^[sir_caractere].",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Daca avem un singur process in executie acesta va trece obigatoriu prin starea Preempted.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "echo text - afiseaza continutul fisierului text pe ecran",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Folosind comanda grep putem da o lista de fisiere ca parametrii nu doar un singur fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Metoda de prevenire a impasului este alocarea controlata de resurse.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, constanta O_APPEND - deschidere pentru adaugare la sfarsitul fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Functiile read si write returneaza 0 daca inca nu s-a ajuns la sfarsitul fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "FCFS reprezinta o abreviere pentru \"First Come First Served\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prin comanda \"ps -u numeutilizator\" se afiseaza pe ecran procesele create de catre utilizator.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "tail -25 fis - afiseaza primele 25 de linii din fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Alegerea unui proces \"victima\" este o cauza a aparitiei impasului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda mkdir creeaza un fisier nou.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fisierele fifo se mai numesc si pipe-uri cu nume.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Procesele concurente pot folosi in comun aceleasi resurse.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "getppid() returneaza identificatorul parintelui procesului curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"echo\" este folosita pentru a sterge de pe ecran un text sau valori ale unor variabile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"cd ..\" ne scoate dintr-un fisier?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "CD-ul este un mediu de stocare magnetic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Prin comanda \"break\" se iese din program.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Functia close() - este folosita pentru deschiderea fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Optiunea -v de la grep va afisa liniile care nu contin sirul dat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In sed la folosirea instructiuni s/expresie_regulara/sir/[flaguri] pot lipsi flagurile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In urma executiei \"echo ceva|sed 'y/abc/ABC/'\" se va afisa textul \"CeVa\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Procesele paralele colaboreaza intre ele.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "\"joe\" ,\"nano\" si \"pico\" sunt compilatoare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un fisier FIFO nu poate fi creat din linia de comanda, acesta poate fi creat doar dintr-un program\nC.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Starea procesului \"SleepSwapped\" inseamna ca procesul se afla in memorie dar nu poate fi executat pana nu se produce un eveniment care sa il scoata din aceasta stare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "test -z string verifica daca string este gol.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, variabila predefinita NF semnifica numarul de cuvinte din linia curenta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un program reprezinta o secventa de instructiuni care descrie operatiile ce vor fii efectuate in timpul unei executii.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "^ inseamna, intr-o expresie regulara, inceputul liniei dintr-un fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "HOSTNAME, HOME, SHELL, MAIL, PS2 sunt variabile SHELL predefinite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un shell poate fi privit ca un limbaj de comanda sau un limbaj de programare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ 1 -ne 1 ] va returna valoarea 1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Instructiunile break, continue se refera la parasirea, respectiv reiterarea ciclurilor: for, while, until.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "finger, w, who, last, id - sunt comenzi comenzi de lucru cu fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "chmod 754 - da toate drepturile pentru ownwer, drept de citire si scriere pentru grup si drept de citire pentru others.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep gr711 /etc/passwd | cut -d: -f1 -> obtinem doar numele de login (field 1) ale celor din grupa 711.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"expr 5 \\* 2\" va returna 10?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed 's/one/ONE/' file - va inlocui toate secventele \"one\" cu \"ONE\" din prima linia.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "FIFO sunt pipe-urile anonime.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell, structurile de control repetitive sunt toate de tip 'for'.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "tail -25 fis - afiseaza ultimele 25 de linii din fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Urmatoarele caracteristici descriu SO Unix: Simplitate, Conectivitate, Flexibilitate, Interactiv, Time-sharing, Multi-user, Multi-tasking.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep -h expr - afiseaza numele fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In cazul in care nu a avut loc o eroare, functia open returneaza file descriptorul fisierului deschis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\" .. \" se refera la directorul curent iar \" . \" la directorul parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "\"$0\" returneaza numele shell- ului in care ma aflu.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Functia \"wait()\" este folosita pentru asteptarea terminarii parintelui si preluarea valorii returnate de acesta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: g=stiu; p=ceva; echo $g p va afisa \"stiu p\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Partea pura a unui proces in memorie nu se modifica in timpul executiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Procesorul face parte din sistemul de operare al unui calculator.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "a=1+1; echo $a - va afisa pe ecran valoarea 2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Functia predefinita \"substr(s,p,n)\" a utilitarului \"awk\",returneaza subsirul lui s care incepe la pozitia p si are lungimea n.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Singura modalitate de a crea un proces este prin apelul de sistem fork.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "echo da; echo nu > fis - scrie \"da\" si \"nu\" in fisierul fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Apelul sistem lseek din C muta cursorul in cadrul unui fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, ARGV este o variabila predefinita care tine minte valoarea parametrilor din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Unix = primul SO care a utilizat structura arborescenta pentru organizarea datelor pe HDD.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Secventa: x=\"abc\" echo \"${x}abc\" afiseaza abcabc pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Secventa: for(i=1 ; i<= 10; i++ ) fork (); - ceeaza 2 la puterea 10 procese.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"man -k cuvant_cheie\" cauta cuvantul cheie in toate manualele disponibile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Urmatoarele secvente sunt echivalente: a=$((1+1)) si a=`expr 1 + 1` .",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In c1&c2, c2 se va executa in foreground iar c1 in background.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Starea procesului \"SleepMemory\" inseamna ca acesta este evacuat pe disc, dar nu poate fi executat pana nu se produce un eveniment care sa il scoata din aceasta stare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Specificarea relativa se face specificand calea incepand de la directorul curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Dupa ce un proces inchide un capat al unui canal pipe, acel proces poate redeschide din nou acel capat pentru a face alte operatii I/O asupra sa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Partea pura a unui process in memorie este formata din: stiva, date neinitializare, date initializate read-write.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "expr length STRING - va returna lungimea stringului dat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Partea impura a unui process in memorie este formata din: stiva, date neinitializare, date initializate read-write.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "La apelarea comenzii:expr string : '.*' se va afisa numarul de caractere al cuvantului \"string\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda test este echivalenta cu \"[\t]\"",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"sed\" cauta un anumit sir de caractere intr-un fisier sau in mai multe fisiere si afiseaza la iesirea standard rezultatul?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In C, constanta O_WRONLY - deschidere numai pentru citire.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Memoria cache este parte din memoria interna si se comporta ca si un pool de copii ale unor locatii din memoria interna.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\u00cen zona heap se aloc\u0103 spa\u021biu pentru variabile dinamice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Discul UNIX estre alcatuit din: blocul de boot, superblocul,i-nodurile si blocurile de date.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fiecare disc UNIX are un director principal/radacina/root din care pot descinde alte directoare si fisiere obisnuite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "PWD este prescurtarea de la password protected.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Citirea din FIFO se face cu consumarea informatiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In: c1&&c2, c2 se executa doar in cazul in care c1 s-a terminat cu succes.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Apelurile sistem sunt o serie de servicii prin intermediul carora programatorilor li se ofera acces la resursele hardware si software gestionate de sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un canal extern poate fi deschis, la oricare din capete, de orice proces.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Metoda FIFO (First In First Out) este o metoda din cadrul politicilor de inlocuire ale paginilor de memorie operativa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un proces fiu mosteneste toate variabile (cu valorile lor) din procesul parinte pana la momentul apelului instructiunii fork().",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Sistemele de fisiere Unix au o structura de graf ciclic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Negatia in cazul unei expresii regulare se face cu semnul ^ la inceput.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Structura interna a discului UNIX este formata din blocul de incarcare, superblocul, I- nodurile si blocurile de date.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Zonele tampon temporare este o tehnica care se foloseste pentru a solutiona diferentele de viteze de acces dintre diferite periferice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Legaturile simbolice pot fi create intre sisteme de fisiere diferite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "finger - afiseaza informatii despre toti utilizatorii logati in sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Efectul apelului sistem popen este urmatorul: deschide un pipe apoi executa un fork().",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Blocarea excessiva a fisierului inseamna ca un singur proces are acces la fisier sau la portiunea din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru terminarea procesului curent, Linux pune la dispoziie apelul de sistem close.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dintr-un fisier pipe pot citi mai multe procese aceasi informative.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "wc numara caracterele, liniile si/sau cuvintele din fiecare fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\" ls \" este o comanda externa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In pipe poti scrie oricat de multe date vrei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Partea pura a unui proces in memorie se schimba in timpul executiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cand instructiunea \"read(fd, sir, 50)\" returneaza 0, inseamna ca s-a ajuns la sfarsitul fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "dup2(4, 0) - este echivalent cu indirectarea < ana.txt, in cazul in care fisierul ana.txt are descriptorul 4.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, constanta O_RDWR - deschidere pentru citire si scriere",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Sistemele de operare au aparut chiar de la inceput cu prima generatie de calculatoare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa \"False && { echo \"CEVA\"; } \" nu executa nimic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prin comanda less este afisat continutul unui fisier cu posibilitatea ca utilizatorul sa se plimbe in sus sau in jos.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$= indica argumentul ce contine optiunile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sed s/a/A/ - schimba toate literele mici a cu litere mari A?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In Unix nu exista fisier de tip pipe.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Crearea canalelor de comunicare intre procese se realizeaz\u0103 \u00een UNIX folosind apelul sistem fork().",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa de instructiuni: $ls, fis $mv fis fis_new , $ls va afisa fis",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "\u00cen starea Run User sunt executate instruc\u021biunile \u00een mod nucleu.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"finger\" afiseaza utilizatorii care au fost logati in ultima luna.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Semnul * repeta caracterul anterior interpretat ca expresie regulara de oricate ori.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda continue are efectul de a iesi dintr-o strunctura repetitiva in curs de desfasurare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Func\u021bia wait() este folosit\u0103 pentru a\u0219teptarea termin\u0103rii fiului \u0219i preluarea valorii returnat\u0103 de acesta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"wc\" afiseaza numarul de linii, de cuvinte si de octeti?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Atat stergerea unui obiect cu legatura hard cat si cu legatura simbolica este restricionata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Conceptul de montare semnifica conectarea unui sistem de fisiere \"exterior\" (ex: de pe un alt HDD) la un director aflat in sistemul de fisiere implicit.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, ARGC este o variabila predefinita care tine minte numarul parametrilor din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru evitarea interpretarii gresite a caracterelo speciale, se foloseste caracterul special de evitare\"/\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Partea impura a unui proces in memorie se modificain timpul executiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Metoda de alocare a memoriei prin camarazi se mai numeste si Buddy-system.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a avea acces la toti utiliziatorii activi, conectati la un moment dat la server, se da comanda \"less /etc/passwd\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In C, constanta O_RDONLY - deschidere numai pentru scriere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru a inmultii in variabila p dintr-un shell primele 2 numere date ca parametrii in linia de comanda, se foloseste expresia p='expr $1 \\* $2'.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un canal extern este un canal prin care pot comunica doua sau mai multe procese, comunicatia facindu-se in acest caz printr-un fisier de tip fifo.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep afiseaza \"0\" daca nu a gasit ce cauta si \"1\" daca a gasit.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In sed nu se pot introduce mai multe fisiere ca parameterii in linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sed y/a/ab/ fis - este gresita din punct de vedere sintactic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un fisier FIFO este marcat cu litera \"p\" in primul camp al drepturilor de acces, la executarea comenzii ls -l.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Spre deosebire de program, procesul are caracter dinamic, asa inca modul de desfasurare al prelucrarilor poate sa difere de la o executie la alta, in functie de contextul de lucru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pid este identificatorul de proces al p\u0103rintelui.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Verificam daca comanda anterioara este executata cu succes sau nu folosind \"$?\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "stdin=2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: num=3*10+4 echo $num afiseaza 34 pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Deschiderea unui fisier este operatia prin care fisierul este pregatit pentru a putea fi prelucrat in continuare, aceasta realizandu-se prin functia open.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un proces este un program in executie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Blocarea obligatorie - sistemul verifica la fiecare scriere si citire daca fisierul este blocat sau nu.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fisierul standard de intrare (stdin) 0 are ca input ceea ce s-a introdus de la tastatura.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In grep folosim * pentru a multiplica caracterul/expresia regulara din fata sa de oricate ori.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "fork() va returna PID-ul fiului creat in procesul parinte, 0 in fiu si -1 in caz de eroare?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea fisierelor este: generica si relativa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell la prima linie a unui fisier te poti referi prin $0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "echo \"Hello\" | sed 's/Hell/Heaven/' - va afisa \"Heaven\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Tehnologia de stocare electronica reprezinta bitii ca o prezenta sau absenta a unui curent electric in anumite circuite sau modificarea starii anumitor circuite (inchis-deschis).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, prin int t[123] se realizeaza o alocare statica.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Intre doua sisteme de fisiere distincte nu se pot crea legaturi hard.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep -c \"exemplu\" fisier - va afisa numarul de aparitii a cuvantului \"exemplu\" in interiorul fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Planificatorul de procese are sarcina de a elibera procesorul la iesirea procesului din starea RUN.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In starea Zombie procesul asteapta sa fie preluat de catre parinte si inchis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell, variabila de mediu NF semnifica numarul de cuvinte din linia curenta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Existenta simultana in memoria interna a mai multor procese care se executa concurrent se numeste multiprogramare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Atat functia de creeare a unui canal intern cat si al unuia extern produc deschiderea automata a celor doua capete.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comenzile 'echo' si 'exit' nu sunt utile in shell.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "test -x file verifica daca file este fisier executabil.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "La apelarea comenzii:expr string : ing se va returna 3, deoarece ultimele 3 caractere se potrivesc.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: g=stiu; p=ceva; echo $g $p va afisa \"stiu ceva\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk -v v=zece '{print \"Nota \", v}' fis afiseaza \"Nota zece\" o singura data, indiferent de ce contine fisierul fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"awk '{print $NF,NF}' fis\" va indica toate cuvintele de la sfarsitul fiecarei linii a fisierului si cate cuvinte sunt pe fiecare linie?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In tehnica zonelor tampon temporare, la citirea din fisier, producatorul este perifericul extern.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Functia read returneaza numarul de octeti cititi din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un proces care a deschis la un moment dat un capat al unui canal extern, nu poate deschide si celalat capat chiar daca l-a inchis pe cel deschis initial.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fiecare proces are un identificator unic (pid).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Optiunea \"-M\" pentru comanda \"sort\" compara numele de luni , ex: \"AUGSelect one:True False",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un proces ce apeleaza wait sau waitpid poate sa primeasca eroare (e.g., daca nu are procese fiu).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda sed nu prelucreaza fisierul de intrare linie cu linie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Sistemul de fisiere FAT - File Alocation Table este folosit in principal de sistemele Windows actuale.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Specificarea absoluta se face specificand calea relativ la directorul curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Perifericul/Device-ul de pe care s-a montat sistemul de fisiere nu se poate indeparta decat dupa unmount.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Viteza de accesare a oricarui tip de memorie este aceeasi.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell, variabila de mediu FS contine separatorul de campuri.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Limbajul shell-ului nu contine variabile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In sed instructiunea y poate modifica fisierul dat ca parametru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sed y/ab/cd/g fis - este gresita din punct de vedere sintactic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Intr-o expresie regulara, daca semnul $ este primul caracter al expresiei, acesta semnifica sfarsit de linie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "FCFS (First Come First Served) este cel mai greu algoritm de implementat, insa este cel mai optim din punct de vedere al timpilor de serivre.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In starea Zombie procesul inca exsista dar informarea faptului ca s-a terminat a fost preluata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "echo variabila - afiseaza valoarea variabilei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In cazul in care intr-un program apelez de doua ori functia fork() vor fi create 4 procese ce vor rula in paralel.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a inmultii in variabila p dintr-un shell primele 2 numere date ca parametrii in linia de comanda, se foloseste expresia p=`expr $1 \\* $2`.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Structura interna a discului UNIX este formata din blocul de incarcare, superblocul si I- nodurile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cea mai costisitoare solutie a fragmentarii interne de memorie aparute in urma alocarii dinamice este cea de relocare a partitilor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Functia wait asteapta terminarea unui fiu fara a bloca procesul apelant.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In cazul unei expresii regulare, [1-7] reprezinta o cifra de la 1 la 7.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk '{print $0}' numefis - va afisa pe ecran prima linie din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"chmod\" este folosita pentru a schimba drepturile directoarelor si fisierelor?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "/lib contine documentatie, librarii, executabile,etc. ale sistemului sau instalate de useri.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Conditia de asteptare circulara este o conditie de aparitie a impasului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Tastatura este un periferic de intrare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk '{print $1}' fis - afiseaza primul cuvant de pe fiecare linie",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep -I a fis - va afisa doar liniile din fisierul fis care il contin pe \"a\" sau pe \"A\" .",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In sed instructiunea d sterge zona temporala.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Reducerea accesului la sectoarele vecine este o metodata ineficienta de optimizare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Prima generatie de calculatoare nu aveau SO.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep -w -l needle haystack.txt - va returna doar numele fisierului in care a fost gasit cuvantul \"needle\", daca acesta a fost gasit.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Conditia END din awk este adevarata dupa ultima linie din ultimul fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed '10,\\$ instructiune' fis1 fis2 - executa instructiune asupra liniilor de la 10 la sfarsitul fisierului obtinut prin concatenarea lui fis1 cu fis2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\"FAT\" este o abreviere pentru \"File Alocation Table\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"df\" ne arata cat loc mai este disponibil pe disk de care se foloseste sistemul de fisiere?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "dup2(3,1) - face ca tot ce se scrie pe ecran(stdout) se va scrie de fapt in fisierul cu fd=3.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep s/1/0/g fis1 -> substituie 1 cu 0, global, in fisierul fis1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cu comanda mv mutam sau redenumim fisiere si/sau directoare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un fisier shell trebuie compilat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "UID semnifica identificatorul userului care a lansat procesul.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un semafor este o pereche (v(s),c(s)), unde v(s) este un numar intreg, iar c(s) contine pointeri la procesele care asteapta la semaforul s.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, constanta O_WRONLY - deschidere numai pentru scriere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Disciplina cozii la \"semafor\" nu depinde de sistemul de operare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Expresia expr 10 \\* 5 returneaz\u0103 2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Procesul parinte se va executa dupa procesul fiu?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "diferenta dintre dup() si dup(2) este ca la dup(2) poate fi indicat explicit noul descriptor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, variabila predefinita FS contine separatorul de campuri.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$2 - returneaza al doilea parametru din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk '{print NF}' fis - numarul de cuvinte de pe fiecare linie",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Optiunea -c de la grep va afisa atat numarul de linii care se potrivesc cu expresia regulara cat si linile respective.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"grep -v \"b\" fis\" va indica toate cuvintele care contin litera b?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru a accesa un bloc de date, unitatea de disc actioneaza in 3 etape: pozitionarea bratului pe cilindrul dorit, rotirea discului pana cand sectorul trece prin fata capului de citire/scriere, schimbul propriu-zis de informatie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "UNIX nu face distincte intre litere mari si mici.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "La atribuirea unei valori unei variabile shell se lasa spatiu inainte de = si si dupa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Directorul /boot contine kernelul sistemului de operare de tip UNIX si fisiere necesare procesului de boot-are.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea absoluta se face folosind: \" * , ? , [sir] , [!sir] \".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Intr-o expresie regulara, daca semnul $ este ultimul caracter al expresiei, acesta semnifica sfarsit de linie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "EUID este prescurtarea pentru effective user ID.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "echo ?$ afiseaza codul de retur al comenzii rulate anterior.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "ls, pwd, cat, find, locate, file, more, less, rm, mkdir, rmdir sunt comenzi pentru aflarea informatiilor despre useri.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In grep poti afisa linile care nu se potrivesc expresiei regulare utilizand comanda n.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"awk '/[0-100]$/ { print }' fis.txt\" afiseaza fiecare linie care se sfarseste cu numerele in intervalul [0-100]?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Optiunile unei comenzi pot fi adaugate dupa comanda doar cu semnul \"-\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Atat datele initializate Read-only, Read-write, cat si cele neinitializate sunt rezidente pe disc.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"pwd\" arata calea absoluta a directorului curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Sed prelucreaz\u0103 fi\u015fiere interpretate text conform unui scenariu sed, fara a folosi un buffer.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In tehnica zonelor tampon temporare, la scrierea in fisier, consumatorul este procesul care consuma informatiile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In C, identificarea fisierului se face printr-un asa-numit descriptor de fisier (file descriptor). Acesta este un numar intreg care este asociat fisierului in momentul deschiderii acestuia.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Planificatorul de procese are ca sarcina tinerea in evidenta a tuturor proceselor din sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "echo \"1 - 1\" | tr \"-\" \"+\"  - afiseaza 1 + 1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "dup2(0,4) - inseamna ca tot ce se citeste de la tastatura, se va scrie in fisierul cu fd=4.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda find cauta un anumit sir de caractere intr-un fisier sau in mai multe fisiere si afiseaza la iesirea standard rezultatul.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un program C se compileaza cu gcc.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "{echo da; echo nu;} > fis - scrie \"da\" si \"nu\" in fisierul fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "expr index \"Ana are mere\" a - afiseaza 3 pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "for f; do; echo $f; done - afiseaza toti parametrii dati in linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Memoria cache-Contine informatiile cele mai recent utilizate de catre CPU.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda continue are efectul de a trece la urmatoarea iteratie dintr-o strunctura repetitiva in curs de desfasurare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Modificarea atributelor este mai rapida prin legaturile simbolice decat prin legaturile hard.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un proces creat intra in starea ReadySwapped in cazul in care nu exista memorie suficineta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Intre doua sisteme de fisiere distincte nu se pot crea legaturi simbolice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Inchiderea fisierelor FIFO se face cu ajutorul functiei close.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In: $ comanda arg1 arg2 ... arg9 arg10 arg1 este identificat cu $1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un sistem de operare este o interfata intre hardware si software, care gestioneaza aplicatiile si echipamentele hard.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, daca prin executarea functiei read s-a ajuns exact la sfarsitul fisierului, functia returneaza -1, iar in caz de eroare 0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "FAT inseamna File Location Table.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Sistemul de operare Unix este al doilea care a utilizat o structura arborescenta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Planificatorul de procese alege procesul caruia i se va atribui memoria RAM si pentru cat timp.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "NF, NR, FNR, FS, FILENAME sunt variabile awk predefinite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In functia close(fd) - fd este descriptorul de fisier obtinut la open.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"cd ..\" ne duce in directorul parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Cel mai mare consumator de timp in cazul accesari discului este pozitionarea bratului pe cilindrul dorit.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In: cat /etc/passwd | grep gr71. | less - \".\" reprezinta orice alt caracter.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a sterge un fisier apelam comanda \"rm fisier\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"rm -r\" sterge continutul unui director care contine alte directoare sau fisiere?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In tehnica zonelor tampon temporare, aplicata pe memoria cache, memoria interna este atat producator cat si consumator.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "memorie virtuala - capacitatea de a adresa un spatiu de memorie mai mare decat este cel disponibil la memoria operative",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru citirea datelor dintr-un fisier deschis, functia read are un trei parametrii: int fd, void *buf, size_t count.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "SJF' vine de la Shortest Job First.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$# intoarce numarul argumentelor comenzii date.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Negatia lui [sir_caractere] se scrie [^sir_caractere].",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk '{x[NR]=$0;} END {for(i=NR; i>=1; i--) print x[i]}' fis - afiseaza in ordine inversa liniile dintr-un fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "a=$((1+1)); echo $a - va afisa pe ecran: 1+1 .",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Procesele se executa in ordinea in care au fost create si nu se tine cont de importanta acestora.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "s=0; for f; do; s=`expr $s + $f`; done - calculeaza suma tuturor parametrilor dati in linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Cu comanda cd se creeaza un director (create directory).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"cp -r\" copiaza directoarele recursiv?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed 's/^\\([a-z]*\\) \\([a-z]*\\) \\([a-z]*\\)/\\3 \\2 \\1/ g' numefis - afiseaza in ordina inversa primele trei cuvinte din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "head -25 fis - afiseaza ultimele 25 de linii din fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Procesul tata poate asteapta terminarea procesului fiu folosind apelurile sistem hold sau holdpid.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Reincarcarea sistemului de operare este o metoda de iesire din impas.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In cazul unei expresii regulare, [11-20] reprezinta un numar de la 11 la 20.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Procesele concurente sunt acele procese care se pot interconditiona reciproc in timpul executiei in paralel, de exemplu prin folosirea in comun a unor resurse.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a se putea citi EOF din pipe, trebuie ca mai intai toate procesele sa inchida capatul scriere (adica sa inchida descriptorul p[1]).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un proces fiu mosteneste toate instructiunile procesului parinte pana la momentul apelului instructiunii fork().",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cu 'unmask pot sa schimb drepturi implicite dar nu le pot vedea.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fisierele standard sunt: stdout: 0, stdin: 1 si stderr: 2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Apelurile sistem UNIX fac apel direct la functiile kernel ale SO.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un fisier FIFO se poate crea cu ajutorul comenzii \"mkfifo\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fazele translatarii unui program sunt : Compilare, Editare de legaturi, Incarcare, Executie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "mkdir fifo face implicit un pipe cu nume.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "prw-r-.... - semnalizeaza un fisier de tip pipe drwxr-xr... - semnalizeaza un director",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ -z string ] verifica daca string este gol.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "getuid() returneaza identificatorul grupului utilizatorului ce a lansat procesul curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "find test -name \"[0-9]\" - afiseaza acele fisiere sau directoare din directorul \"test\" a caror nume contin o cifra.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In c1&c2, c1 si c2 se vor executa secvential, una dupa alta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Unix nu suporta simultan mai multe tipuri de sisteme de fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"awk 'NR==1 ,NR==5 {print}' fis.txt\" afiseaza linile 1 pana la 5 din fisier?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "FCFS (First Come First Served) este un algoritm de planificare a proceselor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Partea pura a unui process in memorie este formata din: zona text (cod) si date initializate read-only.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Broken Pipe' este atunci cand doua procese asteapta sa citeasca dintr-un pipe.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Functia de creare a unui canal extern nu produce si deschiderea automata a celor doua capete, acestea trebuie dupa creare sa fie deschise explicit prin apelul sistem open().",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ -n string ] verifica daca string este gol.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell, variabila de mediu FILENAME reprezinta numele fisierului curent prelucrat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Directorul \"/mnt\" (mount) este rezervat pentru montarea sistemelor de fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"grep -i cuvant\" cauta un cuvant fara a face diferente intre litere mari si mici?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "dup (fd) returneaza primul descriptor care e liber.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Memoria RAM este un mediu de stocare optic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "finger, w, who, last, id - sunt comenzi pentru aflarea informatiilor despre useri.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In utilitarul awk conditia predefinita BEGIN este adevarata inainte de prima linie din primul fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "a=1+1; echo $a - va afisa pe ecran 1+1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comunicatia intre procese prin intermediul unui canal fifo poate avea loc si daca acele procese nu cunosc numele fisierului fifo respectiv.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Optiunile -q sau -s de la grep va face ca aceasta comanda sa nu afiseze nimic pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "stdout=2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "La un canal de comunicare intre procese (pipe), pfd[0] este capatul de scriere, iar pfd[1] este capatul de citire.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "comanda intoarce in urma unei rularii intotdeauna codul de retur 0",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In awk, functia predefinita index(s1,s2) verifica daca sirurile s1 si s2 sunt egale.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sed s/e/E/g fis1 > rez - redirecteaza output-ul in fisierul rez, care va contine rezultatul final.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In shell, variabila de mediu NR semnifica numarul de ordine al liniei curente (numaratoarea incepe de la 1); linia cu nr. 1 este prima linie din primul fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Structura interna a discului si a sistemului de fisierul Unix este tabela FAT.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "read x - aici x este o variabila in care se va pune ceea ce se introduce de la tastatura.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In tehnica zonelor tampon temporare, la scrierea in fisier, producatorul este procesul care produce informatiile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru ca doua sau mai multe procese sa poata comunica printr-un pipe, ele trebuie sa aiba acces la cei doi descriptori p[0] si p[1].",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Exista trei moduri de a termina un proces: apelul exit, receptionarea unui semnal de terminare (SIGKILL), sau caderea sistemului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed p fis - afiseaza fiecare linie de doua ori.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "La solicitarea accesului la un sector disc, daca se gaseste o copie de a lui in cache-ul disc, atunci sistemul este servit cu copia si accesul se considera incheiat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, constanta O_RDONLY - deschidere numai pentru citire.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Dupa comanda \"chmod 655 prog \" utilizatorul va avea dreptul de executie asupra fisierului prog.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "echo \"text\" - afiseaza text pe ecran",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep gr711 /etc/passwd | cut -d: -f1 -> obtinem toate datele despre cei din grupa 711.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dupa dup2(3,2); - tot ce se va scrie pe ecran se va scire in fisierul care are descriptorul 3.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Heap-ul este o zona de memorie, folosita la alocarea dinamica.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Iesirea din impas se poate face prin reincarcarea sistemului de operare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Cantitatea de date care poate fi scrisa la un moment dat intr-un pipe este limitata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Contextul nucleu este intretinut de nucleu si accesibil doar prin apeluri sistem specifice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"last\" afiseaza utilizatorii care au fost logati in ultima luna.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Sistemul de operare gestioneaza aplicatiile si echipamentele hard.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Intr-o expresie regulara, daca semnul ^ este primul caracter al expresiei, acesta semnifica inceput de linie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fisierul standard \"stdin\" are ca output monitorul.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Memoria cache are o capacitate de memorare foarte mare, dar timpul de accesare este foarte lung",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Primul SO a aparut in anii 60.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep - cauta un anumit sir de caractere intr-unul sau mai multe fisiere si afiseaza la iesirea standard rezultatul.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea relativa se face folosind: \" * , ? , [sir] , [!sir] \".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "echo \"1 - 1\" | tr \"-\" \"+\"  - afiseaza 2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: Created - ReadyMemory - RunKerner - RunUser este traseul unui proces care are prioritate mai mare decat celelalte procese din sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "stderr=0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Functia wait blocheaza procesul apelant pana la terminarea unui fiu.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un fisier FIFO este marcat cu litera \"f\" in primul camp al drepturilor de acces, la executarea comenzii ls -l.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "dup si dup2 permit ca doua fisiere diferite sa fie accesibile printr-un singur descriptor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Din shell pot sa ma refer la primul parametru din linia de comanda cu $1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"ls -lh\" ne arata dimensiunile fisierelor in unitati pe care omul le poate citi si intelege mai usor?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "test 1 -ne 1 va returna valoarea 0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cantitatea de date care poate fi scrisa la un moment dat intr-un pipe este nelimitata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep ^if fis1 fis2 - afiseaza liniile din fis1 si fis2 care nu contin secventa if.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"awk '/[a-z]/ { print }' fis.txt\" afiseaza doar coloanele cu literele mici?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "legatura hard este o intrare intr-un director care puncteaza spre o substructura din sistemul de fisiere spre care puncteaza deja legatura sa naturala.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"touch\" creaza un fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "dup si dup2 permit ca acelasi fisier sa fie accesibil prin doi descriptori diferiti.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In urma executiei comenzii \"ls -l\" apar informatii despre drepturile de citire,scriere si executie asupra directoarelor si fisierelor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Shell este un interpretor de conmezi al sistemului de operare linux si este de asemeanea si un limbaj de programare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Procesele se executa in ordinea in care au fost create si nu se tine cont de importanta acestora.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell, folosind \\ evit semnificatia aparte a unui anumit caracter.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Partea pura al contextului utilizator a unui proces in memorie ramane neschimbata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "/home' nu este un director principal al sistemului de fisiere UNIX.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: for color in red blue green echo $color afiseaza red blue green.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "stdout=1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep fi$ fis1 fis2 - afiseaza liniile din fis1 si fis2 care se termina cu secvemta \"fi\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un proces are un caracter dinamic; reprezinta un set de activitati din program ce se executa in functie de contextul de lucru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "cat' afiseaza continutul unui director.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Structura arborescenta impreuna cu legaturile hard si cele simbolice confera sistemului de fisiere UNIX o structura de graf aciclic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "find test -name \"[a-z]\" - afiseaza acele fisiere sau directoare din directorul \"test\" a caror nume e format dintr-o litera.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sort < fis1 > fis2 - liniile din fisierul fis1 vor fi sortate si sortarea va aparea tot in fisierul fis1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"sed s/^a/b/g fis\" schimba a cu b doar la inceputul liniei din fisier?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda: chmod +x myscript.sh - seteaza drepturi de executie pentru scriptul shell dat ca si parametru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fiecare intrare in tabela FAT poate ocupa doar 16 biti.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "stdin=1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In tehnica zonelor tampon temporare, la scrierea in fisier, consumatorul este perifericul extern.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Creearea unui pipe inainte de creearea unui proces copil face ca copilul sa mosteneasca pipe-ul?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Tehnologia de stocare optica reprezinta bitii sub forma unor particule magnetizabile incarcate negative sau pozitiv.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In awk, length(sir) este o functie predefinita.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In blocul de cod corespunzator conditiei \"if( fork()==0 )\" scriem cod pentru procesul parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Principiul structurii arborescente este ca fiecare fisier sau director are un singur parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Modificarea atributelor intr-o legatura hard este rapida, pe cand cea intr-o legatura simbolica este inceata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pipe-urile sunt de doua feluri : interne si internationale.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "awk - trateaza pe rand cate o linie din fisierele de intrare si pentru fiecare executa instructiuni atunci cand conditia corespunzatoare este adevarata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Unix suporta simultan mai multe tipuri de sisteme de fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea fisierelor poate fi numai absoluta si relativa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "NTFS inseamna NT File System",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sort < fisier imi sorteaza descrescator liniile din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Intr-un shell, if [ $# -eq 0 ] verifica daca numarul de parametrii este = 0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un cilindru se refera la toate pistele care au numere de pista diferite, dar care sunt localizate pe acelasi platan.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cand starea unui process este \"ReadyMemory\" inseamna ca procesul ocupa loc in memoria RAM si este gata pentru a fi executat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk '{print $NF}' fis - numarul de cuvinte de pe fiecare linie",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "stdin=0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\"Round-Robin\" este un algoritm de planificare circulara.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, variabila predefinita FNR semnifica numarul de ordine al liniei curente; liniile cu nr. 1 sunt primele linii din fiecare fisier; numaratoare reincepe de la 1 pentru fiecare fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prin comanda \"rmdir\" se pot sterge directoare, indiferent daca sunt goale sau nu.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fixarea drepturilor implicite sau aflarea acestora se poate face cu comanda umask.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "getpid() returneaza identificatorul procesului curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In reprezentarea generica, \"?\" poate inlocui un singur caracter din numele unui fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Citirea si scrierea informatiei pe un disc se face la nivel de blocuri de date.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Sistemul de fi\u0219iere face parte din nucleu.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "CD-ul este un mediu de stocare optic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In tehnica zonelor tampon temporare, la scrierea in fisier, producatorul este perifericul extern.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cu filtrul grep poti cauta o secventa de caractere intr-un fisier",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Daca intr-un fisier pipe scriu mai multe procese, procesul cu PID-ul mai mic are prioritate.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Sistemul de fisiere este componenta care organizeaza si gestioneaza toate datele care se vehiculeaza in sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "stderr=1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Blocarea exclusiva a fisierului inseamna ca un singur proces are acces la fisier sau la portiunea din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fisierul standard de iesire (stdout) 1 are ca output monitorul consolei de la care a fost lansata comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Citirea din PIPE se face cu consumarea informatiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda wc -l numara linii.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"awk '/[Mm]aria/{print}' /etc/passwd\" cauta toate cuvintele maria care incep cu M sau m?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "fa\u021b\u0103 a unui platan este \u00eemp\u0103r\u021bit\u0103 \u00een piste.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In shell, variabila de mediu FNR semnifica numarul de ordine al liniei curente; liniile cu nr. 1 sunt primele linii din fiecare fisier; numaratoare reincepe de la 1 pentru fiecare fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "$! Indica PID-ul ultimului proces lansat in backround",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Sistem de Operare este o interfata intre echipamentele hard (hardware) si aplicatii.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Contextul utilizator este portiunea spatiului de adrese accesibile in timpul executiei de catre procesul respectiv in mod user.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "dup2() asociaza fisierului deschis cu descriptorul dat ca si paramentru, cel mai mic descriptor nefolosit, pe care il returneaza si il asociaza cu acelasi fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "PID este prescurtarea de la process Id.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\"$?\" indica toate argumentele, ca succesiune de siruri?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "BEGIN si END sunt conditii awk predefinite",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$! indica PID-ul primului proces lansat in background.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In C, functia open returneaza 0 in caz de eroare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Sistemele de fisiere Unix au o structura de graf aciclic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "/etc este un director principal al sistemului de fisiere si contine fisiere de configurare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Citirea din FIFO se face fara consumarea informatiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "rm -r se foloseste numai pentru stergerea directoarelor goale.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "ls, pwd, cat, find, locate, file, more, less, rm, mkdir, rmdir - sunt comenzi de lucru cu fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pe durata executiei unui program are nevoie de aceeasi cantitate de memorie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"grep -i test fis.txt | awk '/[0-9]/ { print }'\" va afisa toate liniile care contin cuvantul test si o cifra?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Dupa utilizarea fisierului, acesta trebuie inchis, folosind functia close.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "echo \"Mara are mere\"| wc -c - va afisa 3.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "ls' afiseaza continutul unui director.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a inmultii in variabila p dintr-un shell primele 2 numere date ca parametrii in linia de comanda, se foloseste expresia p=$1*$2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In terminologia Unix un proces care s-a terminat si pentru care procesul parinte nu a executat wait se numeste zombie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda passwd afiseaza parola utilizatorului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Avem urmatoarele directoare:Dir1 dir1 dIR1La apelarea comenzii:cd dir1 se va deschide oricare dintre cele 3 directoare, deoarece sisteme de tip unix nu fac distinctie intre literele mari si mici.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Functia waitpid specifica procesul fiu asteptat specificand PID-ul acestuia ca si parametru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Tabela FAT nu contine atatea intrari cati clusteri exista pe disc",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cand un proces este in starea \"ReadySwapped\" procesul este gata pentru a fi executat, dar pentru a intra in ciclul de executie, acesta trebuie mai intai sa intre in starea ReadyMemory.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Ppid- este pidul procesului parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ file1 -nt file2 ] verifica daca file1 este mai nou decat file2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "joe, pico, nano, more sunt editoare de text.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Canalul de I/O este o componenta care faciliteaza comunicarea intre procesorul central (CPU) si periferice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"pipe\" creeaza doi descriptori de fisiere, unul pentru citire si unul pentru scriere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "UNIX este un sistem de operare portabil.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "chmod 754 - da toate drepturile pentru ownwer, drept de citire si excutie pentru grup si drept de citire pentru others.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In: c1;c2;c3, c2 si c3 se executa doar in cazul in care comanda anterioara, c1 respectiv c2, a fost executata cu succes.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "GID semnifica identificatorul userului care a lansat procesul.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell, punand semnul $ in fata unei variabile i se da valoarea ei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "pwd arata locul unde suntem noi (in shell).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Imagiunea unui proces in memorie, in contextul nucleu, este intretinut de nucleu si accesibil doar prin apeluri specifice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Conceptul de pooling inseamna verificari la intervale egale de timp ale procesorului pentru a determina daca datele de la periferic sunt disponibile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In starea RunUser sunt executate instructiunile programului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Functia read returneaza 0 daca s-a ajuns la sfarsitul fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "PWD este prescurtarea de la print working directory.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda break are efectul de a trece la urmatoarea iteratie dintr-o strunctura repetitiva in curs de desfasurare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un process care a deschis si a inchis un capat al unui canal extern nu mai poate sa redeschida acest capat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Apelul fork() creeaza un pipe intern (anonim)?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Specificarea generica se face specificand calea incepand de la directorul curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Aplicatiile fac parte din sistemul de operare al unui calculator.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un program C prog.c se ruleaza cu: ./prog.c .",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"ls -a\" ne arata toate directoarele si fisierele ascunse care incep cu \".\"?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Exista 2 moduri de a rula un proces: in mod utilizator si in mod nucleu.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ 1 -ne 1 ] va returna valoarea 0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In tehnica zonelor tampon temporare, la citirea din fisier, consumatorul este procesul care consuma informatiile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, constanta S_IWUSR inseamna drept de scriere pentru proprietarul fisierului (pt. user).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"echo abcd efg | sed 's/\\([a-z]*\\) \\([a-z]*\\)/\\1\\2 /'\" sterge spatiul dintre cuvinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a avea acces la toti utiliziatorii activi, conectati la un moment dat la server, se da comanda \"less /etc/passwd\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Tehnologia de stocare magnetica reprezinta bitii sub forma unor puncte sau cavitati microscopice ce au rolul de a reflecta diferit lumina.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Directorul este organizat sub forma unei tabele in care este memorata cate o intrare pentru fiecare fisier din acel director.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea relativa se face specificand calea incepand de la directorul radacina.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Atat /bin, /boot cat si /home sunt directoare principale pe care le regasiti in radacina unui sistem de operare de tip UNIX.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"kill\" emite un semnal de tip intrerupere catre un proces.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Conditia END de la utilitarul awk este adevarata dupa ultima linie din oricare fisier fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru a repeta o expresie regular de exact n ori in grep se foloseste {n}.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In scenariu awk, accesarea campurilor se face cu $1, $2, ... $NF, iar intreaga linie se refera cu $0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Dup\u0103 apelul fork() modific\u0103rile f\u0103cute \u00een procesul fiu vor putea fi v\u0103zute de c\u0103tre procesul p\u0103rinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pipe este o entitate, pe care apelul sistem il vede, din punct de vedere sintactic, tot ca si fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Monitorul este un periferic de intrare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dupa secventa de cod:pid = fork();if(pid==0){ fork(); }else{ }}vor fi in total 3 procese active.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep '^\\(.*\\) \\(.*\\) \\1$' fis - afiseaza toate liniile care incep si se termina cu acelasi cuvant.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ -x file ] verifica daca exista fisierul file.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa de instructiuni: numar=13; expr $numar - 3 va afisa 10",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$# - intoarce numarul aparitiilor comenzii .",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Politica de inlocuire are ca metoda NRU, prescurtare care vin de la NOT Recently Used.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sort < fis1 > fis2 - liniile din fisierul fis1 vor fi sortate iar rezultatul sortarii va aparea in fisierul fis2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In mecanismul i-node, \"Group ID\" (GID) reprezinta numarul de identificare al proprietarului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In linux este imposibil sa dau liste de comenzi (mai multe comenzi pe aceeasi linie).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Printr-un pipe poate comunica un singur proces.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fisierele directori sunt privite ca siruri de octeti, fara o organizare logica speciala.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "La mecanismul i-node exista 2 tipuri de indirectare: simpla si dubla.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Folosirea in mod exclusiv a acelorasi resurse de catre mai multe procese concurente poate duce la impas.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, variabila predefinita FILENAME reprezinta numele fisierului curent prelucrat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\"nr=`expr 2 + 3 `\" este echivalent cu \"nr=$((2+3))\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pipe-urile externe nu sunt pastrate in sistemul de fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dup\u0103 apelul dup2(), descriptorul newfd va indica acela\u0219i fi\u0219ier ca oldfd.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Intre comenzile: a) x=hello world; echo $x b) x=\"hello world\"; echo $x nu este nici o diferenta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"nice\" modifica prioritatea de rulare a unei comenzi.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Alocarea controlata de resurse este o conditie de aparitie a impasului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fiecare sistem de orperare are un mod propriu de a-si organiza datele pe hard disk.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\"#!/bin/bash\" indica faptul ca comenzile din shell-ul respectiv vor fi interpretate de \"/bin/bash\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In sed instructiunea p afiseaza bufferul temporal.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, length(sir) nu este o functie predefinita.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dintr-un fisier FIFO citirea se face cu consumarea informatiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Urmatoarea secventa: p=34;g=$p; echo g va afisa 34.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "$? intoarce codul de terminare al comenzii precedente.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "getuid() returneaza identificatorul utilizatorului ce a lansat procesul curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ expr ] evalueaza valoarea expresiei si returneaza exit status 1 sau 0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "head -25 fis - afiseaza primele 25 de linii din fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, indicatorul pozitiei curente dintr-un anumit fisier poate fi setat si in mod explicit, cu ajutorul functiei lseek.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "dup2(): pt a elibera un file descriptorul dat ca si al doilea parametru, inchide fisierul corespunzator, dupa care apeleaza un dup().",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "read x - aici x este un nume de fisier in care se vor citi siruri de caractere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sectiune critica a unui program este neinteruptibila.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a deschide capatul de citire a unui canal extern, procesul respective trebuie sa fie inrudit cu procesul care a deschis capatul de scriere a acelui canal.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Partea impura a unui proces in memorie nu se schimba in timpul executiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "La un canal de comunicare intre procese (pipe), pfd[0] este capatul de citire, iar pfd[1] este capatul de scriere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "mkfifo fisier - sterge un fisier FIFO.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sed '1,10 instructiune' fis - executa instructiune asupra liniilor de la 0 la 10.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Variabila predefinita \"NF\", a utilitarului \"awk\", contine numarul de ordine al liniei curente.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Memoria externa este formata din memorie secundara si memorie de arhivare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea generica se face specificand calea incepand de la directorul radacina.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fisierele standard sunt: stdin: 0, stdout: 1 si stderr: 2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un proces este un program in executie care foloseste un set de resurse ale sistemului (memorie, procesor, disc, interfata de retea, etc).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Blocarea concilianta - sistemul verifica la fiecare scriere si citire daca fisierul este blocat sau nu.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "find -type d lala - va afisa toate directoarele din directorul lala.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In: c1&&c2, c2 se executa doar in cazul in care c1 s-a terminat cu insucces.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In awk, variabila predefinita NR semnifica numarul de ordine al liniei curente (numaratoarea incepe de la 1); linia cu nr. 1 este prima linie din primul fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In arhitecturile monoprocesor, mai multe procese care ruleaza concomitent sunt de fapt deservite alternativ de catre procesor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda expr evalueaza doar expresiile logice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Procesele paralele nu se interconditionneaza reciproc si nu colaboreaza intre ele.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru comunicare bidirectionala intre procese se recomanda folosirea unui singur pipe extern (cu nume)?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un script shell este un fisier text care contine una sau mai multe comenzi.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed - prelucreaza fisiere interpretate text conform unui scenariu sed. Prelucreaza linie cu linie folosind un buffer temporar si afiseaza bufferul temporar la iesirea standard (daca nu se foloseste optiunea -n).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru citirea datelor dintr-un fisier deschis, functia read are un singur parametru: int fd.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sed - \"conditia vida\" este falsa pentru toate liniile din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Tabela FAT contine informatii de alocare a spatiului pe disc pentru fiecare fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed '1,10 instructiune' fis - executa instructiune asupra liniilor de la 1 la 10.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a afla de cate ori s-a logat un utlizator in ultima luna se foloseste instructiunea \"last|grep 'numeutilizator'\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Crearea unui fisier fifo se face cu ajutorul editoarelor de text.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In awk, variabila predefinite FNR incepe de la 0 cu fiecare fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sort \u2013m este folosit pentru a elimina linile care apar de mai multe ori.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Intr-o expresie regulara, \"[^sir_caractere]\" este negatia lui \"[sir_caractere]\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Instructiunea lseek(fd,-100,SEEK_END) va pozitiona indicatorul la 100 de octeti departare de sfarsitul fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Utilizarea apelului sistem fork() este o modalitate de a creea mai multe procese.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Din starea SleepSwaped procesul poate trece direct in starea RunUser.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda grep are codul de retur 0, daca gaseste secventa data, sau 1 altfel.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Linkurile simbolice sunt legaturi catre numele fisierului, in timp ce linkurile hard sunt legaturi catre fisierul propriu-zis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "ps afiseaza toate fisierele pe care le-ai accesat anterior.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Metoda NRU (Not Recently Used) este o metoda din cadrul politicilor de incarcare ale paginilor de memorie operativa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Metoda LRU (Least Recently Used) este o metoda din cadrul politicilor de inlocuire ale paginilor de memorie operativa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"ls -d\" ne arata continutul fiserelor?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "[ file1 -nt file2 ] verifica daca file1 este mai vechi decat file2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Alocarea virtuala este: segmentata si paginata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Unix a fost primul sistem de operare care a utilizat structura arborescenta a directoarelor si fisierelor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In write(fd[1],\"mesaj\",4); si read(fd[0],mesaj,10) s-au ales bine descriptorul de fisier 1 in primul caz si 0 in al doilea?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In sed p este folosit ca si o conditie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fiecare proces trebuie s\u0103 men\u021bin\u0103 deschis cap\u0103tul canalului pe care NU \u00eel folose\u0219te.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda 'grep \"are mere\" t?' cauta in fisierele care incep cu litera \"t\" secventa respectiva.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep \"ceva\" A | sort > fis - nu va afisa nimic pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "FILENAME, NF, FNR, NR sunt variabile SHELL predefinite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Specificarea fisierelor este: generica si absoluta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un canal extern nu poate fi deschis la orircare din capete, de orice proces care are drepturi.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In: c1||c2, c2 se executa doar in cazul in care c1 s-a terminat cu succes.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "test -x file verifica daca exista fisierul file.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In urma crearii unui proces fiu prin comanda \"fork()\", pidul fiului va fi egal cu pidul parintelui.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dup\u0103 apelul fork() cele dou\u0103 procese \u00ee\u0219i continu\u0103 execu\u021bia \u00een paralel.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep if fis1 fis2 - afiseaza toate liniile din fis1 si fis2 care contin cuvantul \"if\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un pipe nu poate fi stabilit \u00eentre dou\u0103 procese \u00eenrudite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In awk, NR reprezinta numarul de cuvinte de pe linii, iar NF reprezinta numarul liniei curente.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Crearea unui fi\u0219ier de tip FIFO se realizeaz\u0103 cu ajutorul func\u021biei mkdir.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "\" man \" este o comanda interna.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "exit(0) termina procesul parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "\"Cache Web\" pastreaza copii ale celor mai recente zone de memorie accesate.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In: c1;c2;c3, cele 3 comenzi se executa secvential in ordinea c1, c2, c3.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a accesa valoarea unei variabile in awk trebuie sa folosim $.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep fi$ fis1 fis2 - afiseaza liniile din fis1 si fis2 care se termina cu cuvantul \"fi\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In starea Zombie procesul nu mai exsista insa informarea faptului ca s-a terminat, trimisa spre procesul parinte, nu a fost inca preluta de acesta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "file numefis | grep -q \"ASCII\"; [ $? -eq 0 ] - verifica daca fisierul \"numefis\" este de tipul ASCII.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Asigurarea corectitudinii operatiilor executate in regim de concurenta constituie o problema legata de accesul la resurse.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un sistem de tip Unix este organizat pe trei nivele: nucleu(kernel), shell, aplicatii.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "De obicei optiunile cu - seteaza ceva, iar cele cu + deseteaza ceva.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep ^if fis1 fis2 - afiseaza liniile din fis1 si fis2 care incep cu if.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pid- este numarul care se aloca unui fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cu comanda: more fis - poti vedea continutul unui fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"du\" ne arata recursiv dimensiunile directoarelor si fisierlor continute in directorul dat ca si parametru?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "expr length \"er la\" va returna 4.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Crearea unui \"punct de reluarea\" este o metoda de iesire din impas.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"ls -l\" ne arata mai multe informatii fisiere?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"kill\" emite un semnal de tip intrerupere catre un process",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "find -type f fifo - este corect si va afisa toate fisierele din directorul fifo.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Poolingul efectuat de catre procesorul central si intreruprea lansata de catre periferic sunt metode asincrone.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed s/a/abc/g fis - este gresita sintatic pentru ca litera \"a\" poate sa fie inlocuita doar cu o litera, nu cu o succesiune ca si in cazul nostru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep fi$ fis afiseaza valoarea lui fi din fisierul fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Alocarea memoriei interne poate fii alocare reala sau alocare virtuala",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In mecanismul i-node, \"size\" reprezinta numarul de octeti (lungimea) fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"file\" ne arata toate directoarele si subdirectoarele dintr-un director curent?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sed 'y/abcd/ABCD/' test - va inlocui toate caracterele mici abcd cu caractere mari ABCD in fisierul test.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Func\u021bia de creare a unui canal extern produce automat deschiderea celor dou\u0103 capete.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "[ -x file ] verifica daca file este fisier executabil.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un descriptor de fisier este un numar intreg, asociat fisierului respectiv in momentul deschiderii lui.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea absoluta se face specificand calea incepand de la directorul radacina.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"echo Bunaziua|sed s/ziua/seara/\" va schimba ziua cu seara?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In cazul filtrului sed, conditia $ este valabila pentru ultima linie din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un canal intern este un canal aflat in memorie, prin care pot comunica doua sau mai multe procese.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "echo \"mar x portocala\" | tr \"x\" \"&\" - afiseaza: mar & portocala.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\"&\" asezata dupa apelul unei comenzi face ca acea comanda sa se ruleze in background.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prin comanda \"sed '1,5 d' fis\" se afiseaza liniile din fisier de la 1-5.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "La un fisier NTFS: numele fisierului, informatii legate de securitate si datele in sine sunt toate atribute ale fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In shell, cand avem de inmultit 2 numere pentru a evita caracterul special *, inmultirea se scrie \\*.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$? intoarce PID-ul procesului parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "$# - intoarce numarul argumentelor din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\"$$\" indica PID-ul ultimului proces lansat in background?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "test file1 -nt file2 verifica daca file1 este mai vechi decat file2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Functia open() returneaza un descriptor de fisier, in cazul in care nu sunt erori.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In cazul in care un pipe este \"plin\" instructiunea write() va returna o eroare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "last | grep ^lali | tail -10 - va afisa ultimele 10 logari al unui utilizator a carui nume de login incepe cu lali.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"rmdir\" poate sterge directoare care contin fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Blocarea partajata va bloca doar o parte din fisier, pe care se opereaza la un moment dat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Procesele paralele sunt acele procese care se pot interconditiona reciproc in timpul executiei in paralel, de exemplu prin folosirea in comun a unor resurse.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda grep este o comanda UNIX pentru cautare de text.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In sed putem sterge zona temporala cu ajutorul instructiuni p.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In awk, ARGV este o variabila predefinita care tine minte numarul parametrilor din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Conditia END din awk este adevarata inainte de ultima linie din ultimul fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"awk -F, '{ print $0 }' fis.txt\" afiseaza toate liniile din fiser?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "mkdir dir1/dir2 - \u00eenseamn\u0103 crearea lui dir2 \u00een dir1 din directorul curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "test file1 -nt file2 verifica daca file1 este mai nou decat file2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Functia fork() este folosita pentru a crea un proces nou, dintr-un proces existent deja.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In starea Zombie procesul nu mai exist\u0103 \u0219i a fost scos din tabela proceselor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "proces=program",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "PID este prescurtarea pentru Parent ID.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Exista 2 modalitati de a crea procese: fork() si lansarea in executie a unui program.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In shell exista trei tipuri de ghilimele: \"ghilimele duble\", 'ghilimele simple' si `glilimele inclinate`.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fifo nu este un tip de fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In awk NR este o variabila predefinita care retine numarul liniei curente din fisierul current.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "getpid() returneaza identificatorul de proces al fiului nou creat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda grep nu face modificari in fisierul prelucrat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru filtrului sed, conditia vida este valabila doar pentru prima linile din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"cat numefis\" afiseaza continutul fisierului 'numefis'.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "test -n string verifica daca string este gol.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un proces care incearca sa citeasca dintr-un pipe al carui capat de scriere este inchis(nu mai exista nici un proces legat la acesta) functia read() va returna 0 indiferent de ce se afla in aceasta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Conceptul de \"broken pipe\" inseamna pipe-ul e deschis numai in scriere (la capatul de scriere).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Apelul functiei write(1,\"Incep/n\",6) intr-un fisier C va afisa \"Incep\" pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "echo $v - afiseaza valoarea variabilei v.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In momentul deschiderii unui fisier acesta poate avea acelasi file descriptor cu alt fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "-\tintoarce numarul argumentelor din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "[^a-z] - este o expresie regulara in care '^ arata ca inainte de 'a poate fi orice alt caracter.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Legaturile hard pot fi create intre sisteme de fisiere diferite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "stdout=0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru a muta un director intr-un alt director apelam comanda \"movedir d1 d2\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Directorul \"/boot\" contile comenzile de sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In c1||c2, c2 se executa indiferent de cum s-a terminat c1 (cu succes sau fara).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pipe-urile interne sunt create in memoria interna a sistemului Unix.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Secventa: for(i=1 ; i<= 10; i++ ) fork (); - ceeaza 10 procese.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "La blocarea partajata de fisiere, portiunea partajata nu poate fi citita simultan de catre mai multe procese.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sort -c - verifica daca fisierul este sortat sau nu.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$* indica toate argumentele, privite ca un singur sir, iar $@ indica toate argumentele, ca succesiune de siruri",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un proces creat intra in starea ReadyMemory in cazul in care nu exista memorie suficineta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dupa ce un process a fost creat, va trece obigatoriu prin starea ReadyMemmory.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "SSTF(Shortest Seek Time First) poate amana indefinit unele cereri.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Procesul se gaseste un executie atunci cand procesorul ii executa intructiunile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prin blocarea unui fisier, atat blocare concilianta (advisory) cat si blocarea oblicatorie (mandatory), acesta nu mai poate fi accesat, modificat sau sters.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "La mecanismul i-node exista 3 tipuri de indirectare: simpla, dubla si tripla.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Functia write returneaza 0 daca nu s-a scris nimic in fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Utilitarul awk nu poate prelucra fisiere text.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: Created - ReadyMemory - Preempted - RunUser este traseul celui mai prioritar proces din sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "stderr=2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Secventa: g=stiu; p=ceva; echo $g p va afisa \"stiu ceva\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "fork() va returna 0 in procesul parinte si PID-ul in fiu si -1 in caz de eroare?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In starea RunKernel sunt executate instructiunile in mod nucleu (ex: apeluri sistem, handler de intreruperi).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed s/e/E/g fis1 > rez - redirecteaza output-ul pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fisier inseamna o succesiune de octeti.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Valoarea unei variable SHELL se afiseaza prin comanda \"echo $numevar\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Intretinerea unui cache Web se face prin pool-uri cu paginile web cele mai recent folosite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In cazul filtrului sed, flagul g al instructiunii 's' va inlocui toate aparitile din linii.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In succesiunea de comenzi shell: c1&c2 c2 se va executa in backround.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In succesiunea de comenzi shell: c1;c2;c3 c1, c2 \u0219i c3 sunt executate secvential.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Memoria secundara-Apare la SO care detin mecanisme de memorie virtuala.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$$ indica PID-ul procesului parinte",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda:expr index \"1234567\" 73va returna 3, indicele cel mai mic al caracterului gasit in sirul initial.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Primul pas in tratarea liniei de comanda este despartirea in comenzi elementare cu ajutorul separatorilor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Memoria operative-Contine programele si datele pentru toate procesele existente in sistem",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In shell, punand semnul & in fata unei variabile i se da valoarea ei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Procesele paralele sunt acele procese care pot fi executate in paralel; aceste procese nu se interconditioneaza reciproc, in timpul executiei, si nu colaboreaza intre ele.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In cazul filtrului sed, conditia n este valabila pentru linia cu numarul de ordine egal cu n din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Efectul apelului sistem popen este urmatorul: deschide un pipe apoi executa un fork, iar in procesul nou creat va executa comanda data ca si prim parametru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dup\u0103 apelul fork() procesul fiu NU mo\u0219tene\u0219te \u0219i descriptorii de fi\u0219ier de la procesul p\u0103rinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In starea Created, procesul este creat prin intermediul unui apel system pipe.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "\"Cache disc\" retine copii ale celor mai recente sectoare disc accesate.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Algoritmul FCFS (First Come First Served) executa cererile in ordinea sosirii acestora.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sarcina a planificatorului de procese este alegerea procesului caruia i se va atribui procesorul si pentru cat timp.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea fisierelor este: generica, absoluta si relativa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ -n string ] verifica daca string este gol.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "La atribuirea unei valori unei variabile shell nu se lasa spatiu inainte de = sau dupa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sort < fisier imi sorteaza descrescator liniile din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Avem urmatoarele directoare:Dir1 dir1 dIR1La apelarea comenzii:cd dir1 se va deschide oricare dintre cele 3 directoare, deoarece sisteme de tip unix nu fac distinctie intre literele mari si mici.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In awk, variabila predefinita FS contine separatorul de campuri.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "La un canal de comunicare intre procese (pipe), pfd[0] este capatul de scriere, iar pfd[1] este capatul de citire.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Blocarea partajata va bloca doar o parte din fisier, pe care se opereaza la un moment dat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea generica se face specificand calea incepand de la directorul curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "\"joe\" ,\"nano\" si \"pico\" sunt compilatoare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fiecare intrare in tabela FAT poate ocupa doar 16 biti.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In: cat /etc/passwd | grep gr71. | less - \".\" reprezinta orice alt caracter.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Procesele concurente pot folosi in comun aceleasi resurse.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pipe-urile interne sunt create in memoria interna a sistemului Unix.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Legarea comenzilor prin \"|\" face ca iesirea standard a primei comenzi devine intrare standard a celei de a doua comenzi.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Procesul parinte se va executa dupa procesul fiu?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "stderr=1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Expresia expr 10 \\* 5 returneaz\u0103 2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fisierele standard sunt: stdout: 0, stdin: 1 si stderr: 2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In awk, NR reprezinta numarul de cuvinte de pe linii, iar NF reprezinta numarul liniei curente.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Exista 2 modalitati de a crea procese: fork() si lansarea in executie a unui program.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"rmdir\" poate sterge directoare care contin fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "test 1 -ne 1 va returna valoarea 0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In sed putem sterge zona temporala cu ajutorul instructiuni p.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Func\u021bia wait() este folosit\u0103 pentru a\u0219teptarea termin\u0103rii fiului \u0219i preluarea valorii returnat\u0103 de acesta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In tehnica zonelor tampon temporare, la scrierea in fisier, consumatorul este procesul care consuma informatiile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda grep nu face modificari in fisierul prelucrat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un canal intern este un canal aflat in memorie, prin care pot comunica doua sau mai multe procese.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In starea Zombie procesul nu mai exsista insa informarea faptului ca s-a terminat, trimisa spre procesul parinte, nu a fost inca preluta de acesta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In sed instructiunea y poate modifica fisierul dat ca parametru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "UNIX nu face distincte intre litere mari si mici.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "memorie virtuala - capacitatea de a adresa un spatiu de memorie mai mare decat este cel disponibil la memoria operative",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un fisier FIFO este marcat cu litera \"p\" in primul camp al drepturilor de acces, la executarea comenzii ls -l.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "fork() va returna 0 in procesul parinte si PID-ul in fiu si -1 in caz de eroare?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fiecare proces trebuie s\u0103 men\u021bin\u0103 deschis cap\u0103tul canalului pe care NU \u00eel folose\u0219te.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda: chmod +x myscript.sh - seteaza drepturi de executie pentru scriptul shell dat ca si parametru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"sed s/^a/b/g fis\" schimba a cu b doar la inceputul liniei din fisier?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"df\" ne arata cat loc mai este disponibil pe disk de care se foloseste sistemul de fisiere?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "CD-ul este un mediu de stocare optic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ -x file ] verifica daca exista fisierul file.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep -I a fis - va afisa doar liniile din fisierul fis care il contin pe \"a\" sau pe \"A\" .",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "mkfifo fisier - sterge un fisier FIFO.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Linkurile simbolice sunt legaturi catre numele fisierului, in timp ce linkurile hard sunt legaturi catre fisierul propriu-zis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Broken Pipe' este atunci cand doua procese asteapta sa citeasca dintr-un pipe.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "echo $v - afiseaza valoarea variabilei v.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda wc -w numara cuvinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Utilitarul awk are functii predefinite precum : length(sir), substr(s,p,n), split(s,a,c)",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In urma crearii unui proces fiu prin comanda \"fork()\", pidul fiului va fi egal cu pidul parintelui.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "a=1+1; echo $a - va afisa pe ecran 1+1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Secventa: Created - ReadyMemory - RunKerner - RunUser este traseul unui proces care are prioritate mai mare decat celelalte procese din sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "echo ceva |sed 's/[^abce]/X/' va afisa dupa executare cuvantul \"ceXa\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru ca doua sau mai multe procese sa poata comunica printr-un pipe, ele trebuie sa aiba acces la cei doi descriptori p[0] si p[1].",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep -w tiger jungle.txt - va returna toate linile care contin cuvantul \"tiger\" din fisierul jungle.txt.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed -n p fis - afiseaza fiecare linie de 2 ori.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "$# indica argumentele din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "val=`expr 2 + 2`echo \"Valoare: $val\"va afisa Valoare: $val.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Negatia lui [sir_caractere] se scrie ^[sir_caractere].",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Semafoarele sunt folosite pentru sincronizarea proceselor active concurente.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "for f; do; echo $f; done - afiseaza toate fisierele din directorul curent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "SLTF (Short Latency Time First) va programa servirea inversa a secventei de cereri la sectoare de pe aceeasi pista.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: expr dog \\> cat va returna dog \\> cat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In linux este interzisa comanda: man man.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Zonele tampon temporare este o tehnica care se foloseste pentru a solutiona diferentele de viteze de acces dintre diferite periferice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru receptionarea postei electronice la destinatar se pot folosi comenzile: mail, mailx, sau utilitarul pine.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"cd ..\" ne duce in directorul parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, ARGV este o variabila predefinita care tine minte valoarea parametrilor din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "La mecanismul i-node exista 3 tipuri de indirectare: simpla, dubla si tripla.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru citirea datelor dintr-un fisier deschis, functia read are un trei parametrii: int fd, void *buf, size_t count.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Procesele paralele colaboreaza intre ele.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "awk - trateaza pe rand cate o linie din fisierele de intrare si pentru fiecare executa instructiuni atunci cand conditia corespunzatoare este adevarata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ file1 -nt file2 ] verifica daca file1 este mai nou decat file2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Functia close() - este folosita pentru deschiderea fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Urmatoarea secventa: p=34;g=$p; echo g va afisa 34.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Intr-o expresie regulara, \"[^sir_caractere]\" este negatia lui \"[sir_caractere]\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Sistemul de fisiere FAT - File Alocation Table este folosit in principal de sistemele Windows actuale.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep afiseaza \"0\" daca nu a gasit ce cauta si \"1\" daca a gasit.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda continue are efectul de a iesi dintr-o strunctura repetitiva in curs de desfasurare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Efectul apelului sistem popen este urmatorul: deschide un pipe apoi executa un fork, iar in procesul nou creat va executa comanda data ca si prim parametru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Apelul functiei write(1,\"Incep/n\",6) intr-un fisier C va afisa \"Incep\" pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk '{print $1}' fis - afiseaza primul parametru din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In grep folosim * pentru a multiplica caracterul/expresia regulara din fata sa de oricate ori.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Tastatura este un periferic de intrare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk NR este o variabila predefinita care retine numarul liniei curente din fisierul current.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Functia de creare a unui canal extern nu produce si deschiderea automata a celor doua capete, acestea trebuie dupa creare sa fie deschise explicit prin apelul sistem open().",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, functia predefinita index(s1,s2) verifica daca sirurile s1 si s2 sunt egale.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"kill\" emite un semnal de tip intrerupere catre un process",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru evitarea interpretarii gresite a caracterelo speciale, se foloseste caracterul special de evitare\"\\\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In cazul filtrului sed, conditia $ este valabila pentru ultima linie din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In: c1||c2, c2 se executa doar in cazul in care c1 s-a terminat cu insucces.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea generica se face specificand calea incepand de la directorul radacina.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"expr 5 \\* 2\" va returna 10?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "La apelarea comenzii:expr string : ing se va returna 3, deoarece ultimele 3 caractere se potrivesc.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Optiunea -i de la grep nu va face diferenta intre litere mari si litere mici la cautare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Sistemul de operare Unix este al doilea care a utilizat o structura arborescenta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un program C se compileaza cu gcc.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea fisierelor este: generica si absoluta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Accesul la disc se face in 2 etape : pozitionarea bratului pe cilindrul dorit si schimbul propriu-zis de informatie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un fisier FIFO se poate crea cu ajutorul comenzii \"mkfifo\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "La solicitarea accesului la un sector disc, daca se gaseste o copie de a lui in cache-ul disc, atunci sistemul este servit cu copia si accesul se considera incheiat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In write(fd[1],\"mesaj\",4); si read(fd[0],mesaj,10) s-au ales bine descriptorul de fisier 1 in primul caz si 0 in al doilea?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a muta un director intr-un alt director apelam comanda \"movedir d1 d2\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Functiile read si write returneaza 0 daca inca nu s-a ajuns la sfarsitul fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "val=`expr 2 + 2`echo \"Valoare: $val\"va afisa Valoare: $val.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dup\u0103 apelul fork() modific\u0103rile f\u0103cute \u00een procesul fiu vor putea fi v\u0103zute de c\u0103tre procesul p\u0103rinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In starea RunKernel sunt executate instructiunile in mod nucleu (ex: apeluri sistem, handler de intreruperi).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prin comanda \"sed '1,5 d' fis\" se afiseaza liniile din fisier de la 1-5.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "$* indica toate argumentele, privite ca un singur sir, iar $@ indica toate argumentele, ca succesiune de siruri",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Optiunile -q sau -s de la grep va face ca aceasta comanda sa nu afiseze nimic pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Functia \"wait()\" este folosita pentru asteptarea terminarii parintelui si preluarea valorii returnate de acesta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Crearea unui \"punct de reluarea\" este o metoda de iesire din impas.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Planificatorul de procese alege procesul caruia i se va atribui memoria RAM si pentru cat timp.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"echo Bunaziua|sed s/ziua/seara/\" va schimba ziua cu seara?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea absoluta se face specificand calea incepand de la directorul radacina.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Partea impura a unui proces in memorie se modificain timpul executiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"cd ..\" ne scoate dintr-un fisier?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda grep are codul de retur 0, daca gaseste secventa data, sau 1 altfel.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Func\u021bia de creare a unui canal extern produce automat deschiderea celor dou\u0103 capete.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "test file1 -nt file2 verifica daca file1 este mai vechi decat file2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: num=3*10+4 echo $num afiseaza 34 pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In cazul unei expresii regulare, [11-20] reprezinta un numar de la 11 la 20.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Unix = primul SO care a utilizat structura arborescenta pentru organizarea datelor pe HDD.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prima generatie de calculatoare nu aveau SO.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed - prelucreaza fisiere interpretate text conform unui scenariu sed. Prelucreaza linie cu linie folosind un buffer temporar si afiseaza bufferul temporar la iesirea standard (daca nu se foloseste optiunea -n).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Iesirea din impas se poate face prin reincarcarea sistemului de operare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru comunicare bidirectionala intre procese se recomanda folosirea unui singur pipe extern (cu nume)?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"ls -d\" ne arata continutul fiserelor?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Functia fork() creeaza un proces identic cu procesul parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fiecare fisier are un i-nod (i-node sau inode in engleza, abreviere de la Information Node) asociat, care contine aproape toate informatiile legate de acel fisier, mai putin continutul si numele.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Crearea unui fisier fifo se face cu ajutorul editoarelor de text.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cu comanda cd se creeaza un director (create directory).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Utilitarul awk nu poate prelucra fisiere text.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell, variabila de mediu FNR semnifica numarul de ordine al liniei curente; liniile cu nr. 1 sunt primele linii din fiecare fisier; numaratoare reincepe de la 1 pentru fiecare fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Algoritmul FCFS (First Come First Served) executa cererile in ordinea sosirii acestora.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Heap-ul este o zona de memorie, folosita la alocarea dinamica.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Atat /bin, /boot cat si /home sunt directoare principale pe care le regasiti in radacina unui sistem de operare de tip UNIX.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fiecare proces are un identificator unic (pid).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, constanta O_APPEND - deschidere pentru adaugare la sfarsitul fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Un program C prog.c se ruleaza cu: ./prog.c .",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In urma executiei \"echo ceva|sed 'y/abc/ABC/'\" se va afisa textul \"CeVa\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Procesul se gaseste un executie atunci cand procesorul ii executa intructiunile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "find test -name \"[0-9]\" - afiseaza acele fisiere sau directoare din directorul \"test\" a caror nume contin o cifra.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "dup2(0,4) - inseamna ca tot ce se citeste de la tastatura, se va scrie in fisierul cu fd=4.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dintr-un fisier FIFO citirea se face cu consumarea informatiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"awk 'NR==1 ,NR==5 {print}' fis.txt\" afiseaza linile 1 pana la 5 din fisier?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk -v v=zece '{print \"Nota \", v}' fis afiseaza \"Nota zece\" o singura data, indiferent de ce contine fisierul fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "grep '^\\(.*\\) \\(.*\\) \\1$' fis - afiseaza toate liniile care incep si se termina cu acelasi cuvant.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Partea pura a unui proces in memorie nu se modifica in timpul executiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Crearea unui fi\u0219ier de tip FIFO se realizeaz\u0103 cu ajutorul func\u021biei mkdir.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Specificarea fisierelor este: generica, absoluta si relativa.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In c1&c2, c1 si c2 se vor executa secvential, una dupa alta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un fisier FIFO este marcat cu litera \"f\" in primul camp al drepturilor de acces, la executarea comenzii ls -l.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Fisierul standard de iesire (stdout) 1 are ca output monitorul consolei de la care a fost lansata comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda wc -l numara linii.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Secventa: g=stiu; p=ceva; echo $g p va afisa \"stiu ceva\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In: c1&&c2, c2 se executa doar in cazul in care c1 s-a terminat cu insucces.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "find -type f fifo - este corect si va afisa toate fisierele din directorul fifo.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda test este echivalenta cu \"[\t]\"",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk '{print $NF}' fis - afiseaza ultimul cuvant de pe fiecare linie",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\"$*\" intoarce numarul argumentelor comenzii?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru evitarea interpretarii gresite a caracterelo speciale, se foloseste caracterul special de evitare\"\\\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"shift n\" shifteaza cuvintele cu un numar de pozitii la dreapta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Citirea din PIPE se face fara consumarea informatiei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Detectarea impasului se face atunci cand SO are cel putin un mecanism de prevenire a impasului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un proces ce apeleaza wait sau waitpid poate sa primeasca starea de terminare a fiului asteptat dupa ce acesta s-a terminat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda wc -w numara cuvinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Legarea comenzilor prin \"|\" face ca iesirea standard a primei comenzi devine intrare standard a celei de a doua comenzi.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "dup() asociaza fisierului deschis cu descriptorul dat ca si paramentru, cel mai mic descriptor nefolosit, pe care il returneaza si il asociaza cu acelasi fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, variabila predefinite FNR incepe de la 0 cu fiecare fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "sed -n p fis - afiseaza fiecare linie o data.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Conceptul de \"broken pipe\" inseamna pipe-ul e deschis numai in scriere (la capatul de scriere).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Prin comanda less este afisat continutul unui fisier cu posibilitatea ca utilizatorul sa se plimbe in sus sau in jos.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a se putea citi EOF din pipe, trebuie ca mai intai toate procesele sa inchida capatul scriere (adica sa inchida descriptorul p[1]).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Limbajul shell-ului nu contine variabile.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"touch eu\" creeaza un fisier cu numele \"eu\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "stdin=2.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Variabila predefinita \"NF\", a utilitarului \"awk\", contine numarul de ordine al liniei curente.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un cilindru se refera la toate pistele care au numere de pista diferite, dar care sunt localizate pe acelasi platan.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell, punand semnul $ in fata unei variabile i se da valoarea ei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Shell este un interpretor de conmezi al sistemului de operare linux si este de asemeanea si un limbaj de programare.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Directorul \"/mnt\" (mount) este rezervat pentru montarea sistemelor de fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed s/a/A/ - schimba toate literele mici a cu litere mari A?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Instructiunea \"[ $# -gt 1 ]\" verifica daca numarul argumentelor este sau nu mai mare decat 1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "$# indica argumentele din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "$# intoarce numarul argumentelor comenzii date.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In C, constanta O_RDONLY - deschidere numai pentru scriere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "expr length STRING - va returna lungimea stringului dat.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "head -25 fis - afiseaza ultimele 25 de linii din fis.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "FILENAME, NF, FNR, NR sunt variabile SHELL predefinite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru a accesa un bloc de date, unitatea de disc actioneaza in 3 etape: pozitionarea bratului pe cilindrul dorit, rotirea discului pana cand sectorul trece prin fata capului de citire/scriere, schimbul propriu-zis de informatie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "NF, NR, FNR, FS, FILENAME sunt variabile awk predefinite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Sistemele de fisiere Unix au o structura de graf ciclic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Intr-o expresie regulara, daca semnul $ este primul caracter al expresiei, acesta semnifica sfarsit de linie.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru a afla tipul fisierului se da comanda \"file numefis\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Cantitatea de date care poate fi scrisa la un moment dat intr-un pipe este limitata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "/var', '/boot', '/dev' si '/lib' sunt singurele directoare principale ale sistemului de fisiere UNIX.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "\" .. \" se refera la directorul curent iar \" . \" la directorul parinte.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "test expr evalueaza valoarea expresiei si returneaza exit status 1 sau 0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Partea impura a unui process in memorie este formata din: stiva, date neinitializare, date initializate read-write.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Optiunile unei comenzi pot fi adaugate dupa comanda doar cu semnul \"-\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Legaturile simbolice pot fi create intre sisteme de fisiere diferite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Cu 'unmask pot sa schimb drepturi implicite dar nu le pot vedea.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru filtrului sed, conditia vida este valabila doar pentru prima linile din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Prevenirea impasul se face prin alocarea controlata de resurse.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed y/a/ab/ fis - este gresita din punct de vedere sintactic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "awk '{print $0}' numefis - va afisa pe ecran prima linie din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "HOSTNAME, HOME, SHELL, MAIL, PS2 sunt variabile SHELL predefinite.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "rm -r se foloseste numai pentru stergerea directoarelor goale.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "expr index \"Ana are mere\" a - afiseaza 3 pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed s/e/E/g fis1 > rez - redirecteaza output-ul pe ecran.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: g=stiu; p=ceva; echo $g $p va afisa \"stiu ceva\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In shell, variabila de mediu NF semnifica numarul de cuvinte din linia curenta.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "EUID este prescurtarea pentru effective user ID.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a inmultii in variabila p dintr-un shell primele 2 numere date ca parametrii in linia de comanda, se foloseste expresia p=`expr $1 \\* $2`.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "\"$?\" indica toate argumentele, ca succesiune de siruri?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"finger\" afiseaza utilizatorii care au fost logati in ultima luna.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Pentru citirea datelor dintr-un fisier deschis, functia read are un singur parametru: int fd.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Primul pas in tratarea liniei de comanda este despartirea in comenzi elementare cu ajutorul separatorilor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Specificarea relativa se face specificand calea incepand de la directorul radacina.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Secventa: Created - ReadyMemory - Preempted - RunUser poate fi traseul unui proces care are o prioritate mai mica decat celelalte procese din sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "BEGIN si END sunt conditii awk predefinite",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In cazul unei expresii regulare, [1-7] reprezinta o cifra de la 1 la 7.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"du\" ne arata recursiv dimensiunile directoarelor si fisierlor continute in directorul dat ca si parametru?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Pentru a avea acces la toti utiliziatorii activi, conectati la un moment dat la server, se da comanda \"less /etc/passwd\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "[ 1 -ne 1 ] va returna valoarea 0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Detectarea impasului se face atunci cand SO are cel putin un mecanism de prevenire a impasului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Structura interna a discului UNIX este formata din blocul de incarcare, superblocul, I- nodurile si blocurile de date.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Semafoarele sunt folosite pentru sincronizarea proceselor active concurente.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "finger - afiseaza informatii despre toti utilizatorii logati in sistem.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed - \"conditia vida\" este falsa pentru toate liniile din fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "mkdir fifo face implicit un pipe cu nume.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In mecanismul i-node, \"size\" reprezinta numarul de octeti (lungimea) fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "grep -c expr - afiseaza numarul de linii in care s-a gasit secventa cautata.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "[ expr ] evalueaza valoarea expresiei si returneaza exit status 1 sau 0.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"touch\" creeaza un director?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Dup\u0103 apelul fork() cele dou\u0103 procese \u00ee\u0219i continu\u0103 execu\u021bia \u00een paralel.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Intre doua sisteme de fisiere distincte nu se pot crea legaturi simbolice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Un sistem de tip Unix este organizat pe trei nivele: nucleu(kernel), shell, aplicatii.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda find cauta un anumit sir de caractere intr-un fisier sau in mai multe fisiere si afiseaza la iesirea standard rezultatul.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "^ inseamna, intr-o expresie regulara, inceputul liniei dintr-un fisier.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Secventa: g=stiu; p=ceva; echo $g p va afisa \"stiu p\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Daca intr-un fisier pipe scriu mai multe procese, procesul cu PID-ul mai mic are prioritate.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Cea mai costisitoare solutie a fragmentarii interne de memorie aparute in urma alocarii dinamice este cea de relocare a partitilor.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Din starea SleepSwaped procesul poate trece direct in starea RunUser.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "In shell, punand semnul & in fata unei variabile i se da valoarea ei.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "PID este prescurtarea de la process Id.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "sed y/ab/cd/g fis - este gresita din punct de vedere sintactic.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "La un fisier NTFS: numele fisierului, informatii legate de securitate si datele in sine sunt toate atribute ale fisierului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "echo \"text\" - afiseaza text pe ecran",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Unix nu suporta simultan mai multe tipuri de sisteme de fisiere.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda \"cat numefis\" afiseaza continutul fisierului 'numefis'.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "s=0; for f; do; s=`expr $s + $f`; done - calculeaza suma tuturor parametrilor dati in linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Canalul de I/O este o componenta care faciliteaza comunicarea intre procesorul central (CPU) si periferice.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda \"grep -i test fis.txt | awk '/[0-9]/ { print }'\" va afisa toate liniile care contin cuvantul test si o cifra?",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In awk, ARGC este o variabila predefinita care tine minte numarul parametrilor din linia de comanda.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Directorul\u00a0/tmp\u00a0este folosit pentru fisiere temporare utilizate de aplicatii. The correct answer is True'.\nO comanda returneaza in urma unei rulari codul de retur 0, la terminare cu succes.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Detectarea impasului se face atunci cand SO are cel putin un mecanism de prevenire a impasului.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Comanda echo $PATH | grep $(pwd) g\u0103se\u0219te directorul curent \u00eencep\u00e2nd de la root path.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "Numele unui fisier \u00een Unix poate contine pana la 255 caractere ASCII (litere mari si mici, cifre zecimale, \u2018.\u2019, \u2018_\u2019).",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In shell, (list) este executata intr-un subshell.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Comanda awk '{ if($2 == \"FP\") print $0;}' fisier filtreaza fisierul si afiseaza toate liniile in care al doilea camp (separat prin spatii) este \"FP\".",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "In Unix, variabila de mediu LOGNAME contine numele sub care utilizatorul si-a deschis sesiunea de lucru.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Fisierul standard de erori are asociat descriptorul de fisier 1.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  }
+]
