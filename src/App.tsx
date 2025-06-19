@@ -317,24 +317,17 @@ function App() {
 
   const createNewSession = (questionCount: number, isTest: boolean = false) => {
     let questionIds: number[];
-    if (isTest) {
-      // Create random sample for test
-      const allIndices = Array.from({ length: questions.length }, (_, i) => i);
-      questionIds = [];
-      const count = Math.min(questionCount, questions.length);
+    
+    const allIndices = Array.from({ length: questions.length }, (_, i) => i);
+    questionIds = [];
+    const count = Math.min(questionCount, questions.length);
 
-      while (questionIds.length < count) {
-        const randomIndex = Math.floor(Math.random() * allIndices.length);
-        questionIds.push(allIndices[randomIndex]);
-        allIndices.splice(randomIndex, 1);
-      }
-    } else {
-      // Sequential questions for practice
-      questionIds = Array.from(
-        { length: Math.min(questionCount, questions.length) },
-        (_, i) => i
-      );
+    for (let i = allIndices.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [allIndices[i], allIndices[j]] = [allIndices[j], allIndices[i]];
     }
+
+    questionIds = allIndices.slice(0, count);
 
     const newSession: Session = {
       id: Date.now().toString(),
