@@ -30,11 +30,11 @@ class QuestionCacheManager {
     });
   }
 
-  async cacheQuestions(questions: Question[]) {
+  async cacheQuestions(questions: Question[], language: string = 'ro') {
     if (!this.db) await this.init();
 
     const cache: QuestionCache = {
-      id: "questions",
+      id: `questions-${language}`,
       questions,
       timestamp: Date.now(),
     };
@@ -42,16 +42,16 @@ class QuestionCacheManager {
     await this.db!.put(STORE_NAME, cache);
   }
 
-  async getCachedQuestions(): Promise<Question[] | null> {
+  async getCachedQuestions(language: string = 'ro'): Promise<Question[] | null> {
     if (!this.db) await this.init();
 
-    const cache = await this.db!.get(STORE_NAME, "questions");
+    const cache = await this.db!.get(STORE_NAME, `questions-${language}`);
 
     if (!cache) return null;
 
     // Check if cache is expired
     if (Date.now() - cache.timestamp > CACHE_DURATION) {
-      await this.db!.delete(STORE_NAME, "questions");
+      await this.db!.delete(STORE_NAME, `questions-${language}`);
       return null;
     }
 

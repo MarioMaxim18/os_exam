@@ -4,6 +4,8 @@ export interface Question {
   correct: string;
 }
 
+export type Language = 'ro' | 'en';
+
 export interface Session {
   id: string;
   timestamp: number;
@@ -11,7 +13,7 @@ export interface Session {
   currentQuestionIndex: number;
   score: number;
   isTest: boolean;
-  questionIds: number[]; // Store indices of questions for this session
+  questionIds: number[]; 
   answeredQuestions: number[];
   completed: boolean;
 }

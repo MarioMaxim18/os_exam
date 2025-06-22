@@ -5,12 +5,13 @@ import {
   Moon,
   Sun,
   Settings2,
-  HelpCircle
+  HelpCircle,
+  Globe 
 } from "lucide-react";
 import "./ios.css";
 import "./App.css";
 import * as Dialog from "@radix-ui/react-dialog";
-import { Session } from "./types";
+import { Session, Language } from "./types";
 import { storage } from "./utils/storage";
 import { CommandPalette } from "./components/CommandPalette";
 import { questionCache } from "./utils/questionCache";
@@ -53,31 +54,45 @@ function App() {
   const [previousQuestionIndex, setPreviousQuestionIndex] = useState<
     number | null
   >(null);
+  const [language, setLanguage] = useState<Language>(() => {
+    return (localStorage.getItem('preferred-language') as Language) || 'ro';
+  });
 
   useEffect(() => {
     const loadQuestions = async () => {
       try {
         // Try to get questions from cache first
-        const cachedQuestions = await questionCache.getCachedQuestions();
+        const cachedQuestions = await questionCache.getCachedQuestions(language);
         if (cachedQuestions) {
           setQuestions(cachedQuestions);
           return;
         }
 
         // If not in cache, fetch from file
-        const response = await fetch("/questions.json");
+        const questionFile = language === 'en' ? '/questions-en.json' : '/questions.json';
+        const response = await fetch(questionFile);
         const data = await response.json();
         setQuestions(data);
 
         // Cache the questions for future use
-        await questionCache.cacheQuestions(data);
+        await questionCache.cacheQuestions(data, language);
       } catch (error) {
         console.error("Error loading questions:", error);
+        if (language === 'en') {
+          try {
+            const response = await fetch("/questions.json");
+            const data = await response.json();
+            setQuestions(data);
+            await questionCache.cacheQuestions(data, 'ro');
+          } catch (fallbackError) {
+            console.error("Fallback error:", fallbackError);
+          }
+        }
       }
     };
 
     loadQuestions();
-  }, []);
+  }, [language]);
 
   useEffect(() => {
     // Check system preference
@@ -205,6 +220,12 @@ function App() {
   const toggleDarkMode = () => {
     setIsDark(!isDark);
     document.documentElement.classList.toggle("dark");
+  };
+
+  const toggleLanguage = () => {
+    const newLanguage = language === 'ro' ? 'en' : 'ro';
+    setLanguage(newLanguage);
+    localStorage.setItem('preferred-language', newLanguage);
   };
 
   // Update the keyboard event handler
@@ -763,6 +784,24 @@ function App() {
               <Dialog.Title className="text-[22px] mb-4">Settings</Dialog.Title>
               
               <div className="space-y-4 mb-3">
+                <div>
+                  <label className="text-[15px] text-[var(--ios-text-secondary)]">
+                    Language
+                  </label>
+                  <button
+                    onClick={toggleLanguage}
+                    className="w-full mt-1 px-4 py-2 rounded-[10px] bg-[var(--ios-background)] border border-[var(--ios-border)] text-[var(--ios-text)] flex items-center justify-between hover:bg-[var(--ios-card-background)] transition-colors"
+                  >
+                    <div className="flex items-center gap-2">
+                      <Globe size={16} />
+                      <span>{language === 'ro' ? 'Română' : 'English'}</span>
+                    </div>
+                    <div className="text-[13px] text-[var(--ios-text-secondary)]">
+                      {language === 'ro' ? 'Switch to English' : 'Switch to Romanian'}
+                    </div>
+                  </button>
+                </div>
+                
                 <div>
                   <label className="text-[15px] text-[var(--ios-text-secondary)]">
                     Test Question Count

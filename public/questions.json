@@ -152,7 +152,7 @@
     "correct": "True"
   },
   {
-    "question": "grep vine de la expresia engleză \"global/regular expression/print\" care s-ar traduce prin: \"tipăreşte expresie regulată globală\".",
+    "question": "grep vine de la expresia engleza \"global/regular expression/print\" care s-ar traduce prin: \"tipareşte expresie regulata globala\".",
     "answers": [
       "True",
       "False"
@@ -984,7 +984,7 @@
     "correct": "True"
   },
   {
-    "question": "În zona heap se alocă spațiu pentru variabile dinamice.",
+    "question": "in zona heap se aloca spatiu pentru variabile dinamice.",
     "answers": [
       "True",
       "False"
@@ -1224,7 +1224,7 @@
     "correct": "False"
   },
   {
-    "question": "Crearea canalelor de comunicare intre procese se realizează în UNIX folosind apelul sistem fork().",
+    "question": "Crearea canalelor de comunicare intre procese se realizeaza in UNIX folosind apelul sistem fork().",
     "answers": [
       "True",
       "False"
@@ -1240,7 +1240,7 @@
     "correct": "False"
   },
   {
-    "question": "În starea Run User sunt executate instrucțiunile în mod nucleu.",
+    "question": "in starea Run User sunt executate instructiunile in mod nucleu.",
     "answers": [
       "True",
       "False"
@@ -1280,7 +1280,7 @@
     "correct": "False"
   },
   {
-    "question": "Funcția wait() este folosită pentru așteptarea terminării fiului și preluarea valorii returnată de acesta.",
+    "question": "Functia wait() este folosita pentru asteptarea terminarii fiului si preluarea valorii returnata de acesta.",
     "answers": [
       "True",
       "False"
@@ -1328,7 +1328,7 @@
     "correct": "False"
   },
   {
-    "question": "Partea impură a unui proces în memorie se modifică în timpul execuției.",
+    "question": "Partea impura a unui proces in memorie se modifica in timpul executiei.",
     "answers": [
       "True",
       "False"
@@ -1416,7 +1416,7 @@
     "correct": "True"
   },
   {
-    "question": "Pid este identificatorul de proces al părintelui.",
+    "question": "Pid este identificatorul de proces al parintelui.",
     "answers": [
       "True",
       "False"
@@ -2008,7 +2008,7 @@
     "correct": "False"
   },
   {
-    "question": "Expresia expr 10 \\* 5 returnează 2.",
+    "question": "Expresia expr 10 \\* 5 returneaza 2.",
     "answers": [
       "True",
       "False"
@@ -2168,7 +2168,7 @@
     "correct": "True"
   },
   {
-    "question": "Sed prelucrează fişiere interpretate text conform unui scenariu sed, fara a folosi un buffer.",
+    "question": "Sed prelucreaza fişiere interpretate text conform unui scenariu sed, fara a folosi un buffer.",
     "answers": [
       "True",
       "False"
@@ -2616,7 +2616,7 @@
     "correct": "False"
   },
   {
-    "question": "În c1&&c2, c2 se execută doar în cazul în care c1 s-a terminat cu succes.",
+    "question": "in c1&&c2, c2 se executa doar in cazul in care c1 s-a terminat cu succes.",
     "answers": [
       "True",
       "False"
@@ -3416,7 +3416,7 @@
     "correct": "True"
   },
   {
-    "question": "Sistemul de fișiere face parte din nucleu.",
+    "question": "Sistemul de fisiere face parte din nucleu.",
     "answers": [
       "True",
       "False"
@@ -4016,7 +4016,7 @@
     "correct": "True"
   },
   {
-    "question": "După apelul fork() modificările făcute în procesul fiu vor putea fi văzute de către procesul părinte.",
+    "question": "Dupa apelul fork() modificarile facute in procesul fiu vor putea fi vazute de catre procesul parinte.",
     "answers": [
       "True",
       "False"
@@ -4160,7 +4160,7 @@
     "correct": "False"
   },
   {
-    "question": "După apelul dup2(), descriptorul newfd va indica același fișier ca oldfd.",
+    "question": "Dupa apelul dup2(), descriptorul newfd va indica acelasi fisier ca oldfd.",
     "answers": [
       "True",
       "False"
@@ -4600,7 +4600,7 @@
     "correct": "False"
   },
   {
-    "question": "Fiecare proces trebuie să mențină deschis capătul canalului pe care NU îl folosește.",
+    "question": "Fiecare proces trebuie sa mentina deschis capatul canalului pe care NU il foloseste.",
     "answers": [
       "True",
       "False"
@@ -4664,7 +4664,7 @@
     "correct": "False"
   },
   {
-    "question": "După apelul fork() cele două procese își continuă execuția în paralel.",
+    "question": "Dupa apelul fork() cele doua procese isi continua executia in paralel.",
     "answers": [
       "True",
       "False"
@@ -4680,7 +4680,7 @@
     "correct": "False"
   },
   {
-    "question": "Un pipe nu poate fi stabilit între două procese înrudite.",
+    "question": "Un pipe nu poate fi stabilit intre doua procese inrudite.",
     "answers": [
       "True",
       "False"
@@ -4696,7 +4696,7 @@
     "correct": "False"
   },
   {
-    "question": "Crearea unui fișier de tip FIFO se realizează cu ajutorul funcției mkdir.",
+    "question": "Crearea unui fisier de tip FIFO se realizeaza cu ajutorul functiei mkdir.",
     "answers": [
       "True",
       "False"
@@ -4856,7 +4856,7 @@
     "correct": "True"
   },
   {
-    "question": "Pollingul efectuat de către procesorul central și întreruperea lansată de către periferic sunt metode asincrone.",
+    "question": "Pollingul efectuat de catre procesorul central si intreruperea lansata de catre periferic sunt metode asincrone.",
     "answers": [
       "True",
       "False"
@@ -4912,7 +4912,7 @@
     "correct": "True"
   },
   {
-    "question": "Funcția de creare a unui canal extern produce automat deschiderea celor două capete.",
+    "question": "Functia de creare a unui canal extern produce automat deschiderea celor doua capete.",
     "answers": [
       "True",
       "False"
@@ -5120,7 +5120,7 @@
     "correct": "True"
   },
   {
-    "question": "mkdir dir1/dir2 - înseamnă crearea lui dir2 în dir1 din directorul curent.",
+    "question": "mkdir dir1/dir2 - inseamna crearea lui dir2 in dir1 din directorul curent.",
     "answers": [
       "True",
       "False"
@@ -5144,7 +5144,7 @@
     "correct": "True"
   },
   {
-    "question": "In starea Zombie procesul nu mai există și a fost scos din tabela proceselor.",
+    "question": "In starea Zombie procesul nu mai exista si a fost scos din tabela proceselor.",
     "answers": [
       "True",
       "False"
@@ -5560,7 +5560,7 @@
     "correct": "False"
   },
   {
-    "question": "După apelul fork() procesul fiu NU moștenește și descriptorii de fișier de la procesul părinte.",
+    "question": "Dupa apelul fork() procesul fiu NU mosteneste si descriptorii de fisier de la procesul parinte.",
     "answers": [
       "True",
       "False"
@@ -5840,7 +5840,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda echo $PATH | grep $(pwd) gaseste directorul curent incepând de la root path.",
+    "question": "Comanda echo $PATH | grep $(pwd) gaseste directorul curent incepand de la root path.",
     "answers": [
       "True",
       "False"
@@ -6080,7 +6080,7 @@
     "correct": "False"
   },
   {
-    "question": "Fiecare disc UNIX are un director principal/rădăcină/root din care pot descinde alte directoare și fișiere.",
+    "question": "Fiecare disc UNIX are un director principal/radacina/root din care pot descinde alte directoare si fisiere.",
     "answers": [
       "True",
       "False"
@@ -6088,7 +6088,7 @@
     "correct": "True"
   },
   {
-    "question": "În Unix, variabila de mediu PS2 conține prompterul secundar.",
+    "question": "in Unix, variabila de mediu PS2 contine prompterul secundar.",
     "answers": [
       "True",
       "False"
@@ -6096,7 +6096,7 @@
     "correct": "True"
   },
   {
-    "question": "sort -d compară numai literele.",
+    "question": "sort -d compara numai literele.",
     "answers": [
       "True",
       "False"
@@ -6104,7 +6104,7 @@
     "correct": "False"
   },
   {
-    "question": "Secvența: for ((;;)) ; do read a done reprezintă un ciclu infinit.",
+    "question": "Secventa: for ((;;)) ; do read a done reprezinta un ciclu infinit.",
     "answers": [
       "True",
       "False"
@@ -6112,7 +6112,7 @@
     "correct": "True"
   },
   {
-    "question": "{ echo da; echo nu; } > fis - scrie \"da\" și \"nu\" în fișierul fis.",
+    "question": "{ echo da; echo nu; } > fis - scrie \"da\" si \"nu\" in fisierul fis.",
     "answers": [
       "True",
       "False"
@@ -6120,7 +6120,7 @@
     "correct": "True"
   },
   {
-    "question": "În succesiunea de comenzi shell: c1 & c2 c1 se va executa în background iar c2 în foreground.",
+    "question": "in succesiunea de comenzi shell: c1 & c2 c1 se va executa in background iar c2 in foreground.",
     "answers": [
       "True",
       "False"
@@ -6136,7 +6136,7 @@
     "correct": "False"
   },
   {
-    "question": "Secvența: for(i=1 ; i<= 10; i++ ) fork (); - creează 10 procese.",
+    "question": "Secventa: for(i=1 ; i<= 10; i++ ) fork (); - creeaza 10 procese.",
     "answers": [
       "True",
       "False"
@@ -6144,7 +6144,7 @@
     "correct": "False"
   },
   {
-    "question": "După dup2(3,2); - tot ce se va scrie pe ecran se va scrie în fișierul care are descriptorul 3.",
+    "question": "Dupa dup2(3,2); - tot ce se va scrie pe ecran se va scrie in fisierul care are descriptorul 3.",
     "answers": [
       "True",
       "False"
@@ -6152,7 +6152,7 @@
     "correct": "False"
   },
   {
-    "question": "grep gr711 /etc/passwd | cut -d: -f1 -> se obține doar numele de login (field 1) ale celor din grupa 711.",
+    "question": "grep gr711 /etc/passwd | cut -d: -f1 -> se obtine doar numele de login (field 1) ale celor din grupa 711.",
     "answers": [
       "True",
       "False"
@@ -6160,7 +6160,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda awk '/[a-z]/ { print }' fis.txt afișează doar coloanele cu literele mici.",
+    "question": "Comanda awk '/[a-z]/ { print }' fis.txt afiseaza doar coloanele cu literele mici.",
     "answers": [
       "True",
       "False"
@@ -6168,7 +6168,7 @@
     "correct": "False"
   },
   {
-    "question": "Spre deosebire de program, procesul are caracter dinamic, astfel încât modul de desfășurare al prelucrărilor poate să difere de la o execuție la alta, în funcție de contextul de lucru.",
+    "question": "Spre deosebire de program, procesul are caracter dinamic, astfel incat modul de desfasurare al prelucrarilor poate sa difere de la o executie la alta, in functie de contextul de lucru.",
     "answers": [
       "True",
       "False"
@@ -6176,7 +6176,7 @@
     "correct": "True"
   },
   {
-    "question": "Pentru evitarea interpretării greșite a caracterelor speciale, se folosește caracterul special de evitare \\.",
+    "question": "Pentru evitarea interpretarii gresite a caracterelor speciale, se foloseste caracterul special de evitare \\.",
     "answers": [
       "True",
       "False"
@@ -6184,7 +6184,7 @@
     "correct": "True"
   },
   {
-    "question": "grep -E '^(.*) (.*) \\1$' fis - afișează liniile care încep și se termină cu același cuvânt.",
+    "question": "grep -E '^(.*) (.*) \\1$' fis - afiseaza liniile care incep si se termina cu acelasi cuvant.",
     "answers": [
       "True",
       "False"
@@ -6192,7 +6192,7 @@
     "correct": "True"
   },
   {
-    "question": "Specificarea relativă a fișierelor în Unix reprezintă specificarea întregii căi începând de la directorul rădăcină.",
+    "question": "Specificarea relativa a fisierelor in Unix reprezinta specificarea intregii cai incepand de la directorul radacina.",
     "answers": [
       "True",
       "False"
@@ -6200,7 +6200,7 @@
     "correct": "False"
   },
   {
-    "question": "grep if fis1 fis2 - afișează liniile din fis1 și fis2 în care secvența \"if\" este un cuvânt.",
+    "question": "grep if fis1 fis2 - afiseaza liniile din fis1 si fis2 in care secventa \"if\" este un cuvant.",
     "answers": [
       "True",
       "False"
@@ -6208,7 +6208,7 @@
     "correct": "False"
   },
   {
-    "question": "Comenzile comanda > fis și comanda 1> fis au același efect.",
+    "question": "Comenzile comanda > fis si comanda 1> fis au acelasi efect.",
     "answers": [
       "True",
       "False"
@@ -6216,7 +6216,7 @@
     "correct": "True"
   },
   {
-    "question": "Comenzile comanda < fis și comanda 0< fis au același efect.",
+    "question": "Comenzile comanda < fis si comanda 0< fis au acelasi efect.",
     "answers": [
       "True",
       "False"
@@ -6224,7 +6224,7 @@
     "correct": "True"
   },
   {
-    "question": "În write(fd[1],\"mesaj\",4); și read(fd[0],mesaj,10); s-au ales bine descriptorul de fișier 1 în primul caz și 0 în al doilea.",
+    "question": "in write(fd[1],\"mesaj\",4); si read(fd[0],mesaj,10); s-au ales bine descriptorul de fisier 1 in primul caz si 0 in al doilea.",
     "answers": [
       "True",
       "False"
@@ -6232,7 +6232,7 @@
     "correct": "True"
   },
   {
-    "question": "Partea pură a contextului utilizator a unui proces în memorie rămâne neschimbată.",
+    "question": "Partea pura a contextului utilizator a unui proces in memorie ramane neschimbata.",
     "answers": [
       "True",
       "False"
@@ -6240,7 +6240,7 @@
     "correct": "True"
   },
   {
-    "question": "În starea Zombie procesul, odată ce procesul părinte colectează starea de terminare, procesul zombi este eliminat în întregime din tabelul de procese.",
+    "question": "in starea Zombie procesul, odata ce procesul parinte colecteaza starea de terminare, procesul zombi este eliminat in intregime din tabelul de procese.",
     "answers": [
       "True",
       "False"
@@ -6248,7 +6248,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda finger afișează utilizatorii care au fost logați în ultima lună.",
+    "question": "Comanda finger afiseaza utilizatorii care au fost logati in ultima luna.",
     "answers": [
       "True",
       "False"
@@ -6264,7 +6264,7 @@
     "correct": "True"
   },
   {
-    "question": "Într-o expresie regulată, \"[^sir_caractere]\" este negația lui \"[sir_caractere]\".",
+    "question": "intr-o expresie regulata, \"[^sir_caractere]\" este negatia lui \"[sir_caractere]\".",
     "answers": [
       "True",
       "False"
@@ -6272,7 +6272,7 @@
     "correct": "True"
   },
   {
-    "question": "După secvența de cod:pid = fork(); if(pid==0){ fork(); }vor fi în total 3 procese active.",
+    "question": "Dupa secventa de cod:pid = fork(); if(pid==0){ fork(); }vor fi in total 3 procese active.",
     "answers": [
       "True",
       "False"
@@ -6280,7 +6280,7 @@
     "correct": "True"
   },
   {
-    "question": "După secvența de cod:pid = fork(); if(pid==0){ fork(); }vor fi în total 2 procese active.",
+    "question": "Dupa secventa de cod:pid = fork(); if(pid==0){ fork(); }vor fi in total 2 procese active.",
     "answers": [
       "True",
       "False"
@@ -6288,7 +6288,7 @@
     "correct": "False"
   },
   {
-    "question": "Comanda ls -d ne arată conținutul fișierelor.",
+    "question": "Comanda ls -d ne arata continutul fisierelor.",
     "answers": [
       "True",
       "False"
@@ -6296,7 +6296,7 @@
     "correct": "False"
   },
   {
-    "question": "wait() este folosită pentru așteptarea terminării copilului și preluarea valorii returnată de acesta.",
+    "question": "wait() este folosita pentru asteptarea terminarii copilului si preluarea valorii returnata de acesta.",
     "answers": [
       "True",
       "False"
@@ -6312,7 +6312,7 @@
     "correct": "False"
   },
   {
-    "question": "Utilizatorii creează procese fie prin executarea de programe, fie prin apelarea explicită a fork() în cod.",
+    "question": "Utilizatorii creeaza procese fie prin executarea de programe, fie prin apelarea explicita a fork() in cod.",
     "answers": [
       "True",
       "False"
@@ -6320,7 +6320,7 @@
     "correct": "True"
   },
   {
-    "question": "Specificarea fișierelor în Unix se face exclusiv în două moduri: absolută și relativă.",
+    "question": "Specificarea fisierelor in Unix se face exclusiv in doua moduri: absoluta si relativa.",
     "answers": [
       "True",
       "False"
@@ -6328,7 +6328,7 @@
     "correct": "False"
   },
   {
-    "question": "Comanda echo $PATH | grep $(pwd) schimbă permisiunile userului pe directorul curent.",
+    "question": "Comanda echo $PATH | grep $(pwd) schimba permisiunile userului pe directorul curent.",
     "answers": [
       "True",
       "False"
@@ -6336,7 +6336,7 @@
     "correct": "False"
   },
   {
-    "question": "comanda >> fis are ca și efect suprascrierea conținutului fis cu rezultatul de afișat pe ecran a comenzii comanda.",
+    "question": "comanda >> fis are ca si efect suprascrierea continutului fis cu rezultatul de afisat pe ecran a comenzii comanda.",
     "answers": [
       "True",
       "False"
@@ -6344,7 +6344,7 @@
     "correct": "False"
   },
   {
-    "question": "Pentru a muta un director într-un alt director se apelează comanda movedir d1 d2.",
+    "question": "Pentru a muta un director intr-un alt director se apeleaza comanda movedir d1 d2.",
     "answers": [
       "True",
       "False"
@@ -6352,7 +6352,7 @@
     "correct": "False"
   },
   {
-    "question": "exec() = creează un proces și încarcă un program nou în procesul copil.",
+    "question": "exec() = creeaza un proces si incarca un program nou in procesul copil.",
     "answers": [
       "True",
       "False"
@@ -6360,7 +6360,7 @@
     "correct": "False"
   },
   {
-    "question": "Memoria virtuală este capacitatea de a adresa un spațiu de memorie mai mare decât este cel disponibil la nivelul memoriei operative.",
+    "question": "Memoria virtuala este capacitatea de a adresa un spatiu de memorie mai mare decat este cel disponibil la nivelul memoriei operative.",
     "answers": [
       "True",
       "False"
@@ -6368,7 +6368,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda echo este folosită pentru a șterge de pe ecran un text sau valori ale unor variabile.",
+    "question": "Comanda echo este folosita pentru a sterge de pe ecran un text sau valori ale unor variabile.",
     "answers": [
       "True",
       "False"
@@ -6376,7 +6376,7 @@
     "correct": "False"
   },
   {
-    "question": "dup2(): pt a elibera descriptorul dat ca și al doilea parametru, închide fișierul corespunzător, după care apelează un dup().",
+    "question": "dup2(): pt a elibera descriptorul dat ca si al doilea parametru, inchide fisierul corespunzator, dupa care apeleaza un dup().",
     "answers": [
       "True",
       "False"
@@ -6384,7 +6384,7 @@
     "correct": "True"
   },
   {
-    "question": "În comanda awk putem accesa cuvântul de pe poziția n din linia curentă folosind $n.",
+    "question": "in comanda awk putem accesa cuvantul de pe pozitia n din linia curenta folosind $n.",
     "answers": [
       "True",
       "False"
@@ -6392,7 +6392,7 @@
     "correct": "True"
   },
   {
-    "question": "ps afișează toate fișierele care au fost accesate anterior.",
+    "question": "ps afiseaza toate fisierele care au fost accesate anterior.",
     "answers": [
       "True",
       "False"
@@ -6400,7 +6400,7 @@
     "correct": "False"
   },
   {
-    "question": "Pentru a afla tipul fișierului se folosește comanda file numefis.",
+    "question": "Pentru a afla tipul fisierului se foloseste comanda file numefis.",
     "answers": [
       "True",
       "False"
@@ -6408,7 +6408,7 @@
     "correct": "True"
   },
   {
-    "question": "În cazul unei expresii regulate, [1-7] reprezintă o cifră de la 1 la 7.",
+    "question": "in cazul unei expresii regulate, [1-7] reprezinta o cifra de la 1 la 7.",
     "answers": [
       "True",
       "False"
@@ -6416,7 +6416,7 @@
     "correct": "True"
   },
   {
-    "question": "Un proces care încearcă să citească dintr-un pipe al cărui capăt de scriere este închis (nu mai există nici un proces accesând acest capăt) funcția read() va returna 0 indiferent de ce se află în acesta.",
+    "question": "Un proces care incearca sa citeasca dintr-un pipe al carui capat de scriere este inchis (nu mai exista nici un proces accesand acest capat) functia read() va returna 0 indiferent de ce se afla in acesta.",
     "answers": [
       "True",
       "False"
@@ -6424,7 +6424,7 @@
     "correct": "False"
   },
   {
-    "question": "O secțiune critică a unui program este neinteruptibilă.",
+    "question": "O sectiune critica a unui program este neinteruptibila.",
     "answers": [
       "True",
       "False"
@@ -6432,7 +6432,7 @@
     "correct": "True"
   },
   {
-    "question": "Pentru terminarea procesului curent, Unix pune la dispoziție apelul sistem close.",
+    "question": "Pentru terminarea procesului curent, Unix pune la dispozitie apelul sistem close.",
     "answers": [
       "True",
       "False"
@@ -6440,7 +6440,7 @@
     "correct": "False"
   },
   {
-    "question": "Instrucțiunea [ $# -gt 1 ] verifică dacă numărul argumentelor este sau nu mai mare decât 1.",
+    "question": "Instructiunea [ $# -gt 1 ] verifica daca numarul argumentelor este sau nu mai mare decat 1.",
     "answers": [
       "True",
       "False"
@@ -6448,7 +6448,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda touch creează un director?",
+    "question": "Comanda touch creeaza un director?",
     "answers": [
       "True",
       "False"
@@ -6456,7 +6456,7 @@
     "correct": "False"
   },
   {
-    "question": "Variabila predefinită NF, a utilitarului \"awk\", conține numărul de ordine al liniei curente.",
+    "question": "Variabila predefinita NF, a utilitarului \"awk\", contine numarul de ordine al liniei curente.",
     "answers": [
       "True",
       "False"
@@ -6464,7 +6464,7 @@
     "correct": "False"
   },
   {
-    "question": "Contextul utilizatorului este porțiunea din spațiul de adrese accesibilă la momentul execuției de către acest proces în modul utilizator.",
+    "question": "Contextul utilizatorului este portiunea din spatiul de adrese accesibila la momentul executiei de catre acest proces in modul utilizator.",
     "answers": [
       "True",
       "False"
@@ -6472,7 +6472,7 @@
     "correct": "True"
   },
   {
-    "question": "În urma execuției echo ceva | sed 'y/abc/ABC/' se va afișa textul CeVa.",
+    "question": "in urma executiei echo ceva | sed 'y/abc/ABC/' se va afisa textul CeVa.",
     "answers": [
       "True",
       "False"
@@ -6480,7 +6480,7 @@
     "correct": "False"
   },
   {
-    "question": "Comanda ./cauta.sh > cauta.log adaugă erorile scriptului cauta.sh în fișierul cauta.log.",
+    "question": "Comanda ./cauta.sh > cauta.log adauga erorile scriptului cauta.sh in fisierul cauta.log.",
     "answers": [
       "True",
       "False"
@@ -6488,7 +6488,7 @@
     "correct": "False"
   },
   {
-    "question": "Comanda ./cauta.sh >> cauta.log adaugă erorile scriptului cauta.sh în fișierul cauta.log.",
+    "question": "Comanda ./cauta.sh >> cauta.log adauga erorile scriptului cauta.sh in fisierul cauta.log.",
     "answers": [
       "True",
       "False"
@@ -6496,7 +6496,7 @@
     "correct": "False"
   },
   {
-    "question": "Folosind comanda grep se poate da o listă de fișiere ca parametrii nu doar un singur fișier.",
+    "question": "Folosind comanda grep se poate da o lista de fisiere ca parametrii nu doar un singur fisier.",
     "answers": [
       "True",
       "False"
@@ -6504,7 +6504,7 @@
     "correct": "True"
   },
   {
-    "question": "În Unix, variabila de mediu PS1 conține prompterul principal.",
+    "question": "in Unix, variabila de mediu PS1 contine prompterul principal.",
     "answers": [
       "True",
       "False"
@@ -6512,7 +6512,7 @@
     "correct": "True"
   },
   {
-    "question": "În Unix, separatorul de câmpuri folosit în variabila de mediu PATH este \":\".",
+    "question": "in Unix, separatorul de campuri folosit in variabila de mediu PATH este \":\".",
     "answers": [
       "True",
       "False"
@@ -6520,7 +6520,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda wc afișează numarul de linii, de cuvinte și de octeți dintr-un fișier?",
+    "question": "Comanda wc afiseaza numarul de linii, de cuvinte si de octeti dintr-un fisier?",
     "answers": [
       "True",
       "False"
@@ -6528,7 +6528,7 @@
     "correct": "True"
   },
   {
-    "question": "test expr - evaluează valoarea expresiei și returnează exit status 1 sau 0.",
+    "question": "test expr - evalueaza valoarea expresiei si returneaza exit status 1 sau 0.",
     "answers": [
       "True",
       "False"
@@ -6536,7 +6536,7 @@
     "correct": "True"
   },
   {
-    "question": "/home nu este un director principal al sistemului de fișiere UNIX.",
+    "question": "/home nu este un director principal al sistemului de fisiere UNIX.",
     "answers": [
       "True",
       "False"
@@ -6544,7 +6544,7 @@
     "correct": "False"
   },
   {
-    "question": "Comanda cat numefis afișează conținutul fișierului 'numefis'.",
+    "question": "Comanda cat numefis afiseaza continutul fisierului 'numefis'.",
     "answers": [
       "True",
       "False"
@@ -6552,7 +6552,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda sed \"s&/bin&/bong&g\" /etc/passwd afișează conținutul fișierului /etc/passwd înlocuind /bin cu /bong.",
+    "question": "Comanda sed \"s&/bin&/bong&g\" /etc/passwd afiseaza continutul fisierului /etc/passwd inlocuind /bin cu /bong.",
     "answers": [
       "True",
       "False"
@@ -6560,7 +6560,7 @@
     "correct": "True"
   },
   {
-    "question": "Un proces execută în două moduri de CPU: modul utilizator în timpul apelurilor de sistem și modul kernel pentru codul aplicației.",
+    "question": "Un proces executa in doua moduri de CPU: modul utilizator in timpul apelurilor de sistem si modul kernel pentru codul aplicatiei.",
     "answers": [
       "True",
       "False"
@@ -6576,7 +6576,7 @@
     "correct": "True"
   },
   {
-    "question": "Din shell se poate face referire la primul parametru din linia de comandă cu $1.",
+    "question": "Din shell se poate face referire la primul parametru din linia de comanda cu $1.",
     "answers": [
       "True",
       "False"
@@ -6584,7 +6584,7 @@
     "correct": "True"
   },
   {
-    "question": "Un proces copil va începe prin utilizarea (în comun) a codului părintelui.",
+    "question": "Un proces copil va incepe prin utilizarea (in comun) a codului parintelui.",
     "answers": [
       "True",
       "False"
@@ -6592,7 +6592,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda who - afișează numele utilizatorilor curenți.",
+    "question": "Comanda who - afiseaza numele utilizatorilor curenti.",
     "answers": [
       "True",
       "False"
@@ -6600,7 +6600,7 @@
     "correct": "True"
   },
   {
-    "question": "Procesele se termină fie apelând exit(), fie fiind ucise prin semnale (de exemplu, SIGKILL).",
+    "question": "Procesele se termina fie apeland exit(), fie fiind ucise prin semnale (de exemplu, SIGKILL).",
     "answers": [
       "True",
       "False"
@@ -6608,7 +6608,7 @@
     "correct": "True"
   },
   {
-    "question": "Secvența: for(i=1 ; i<= 10; i++ ) fork (); - creează 1024 procese.",
+    "question": "Secventa: for(i=1 ; i<= 10; i++ ) fork (); - creeaza 1024 procese.",
     "answers": [
       "True",
       "False"
@@ -6616,7 +6616,7 @@
     "correct": "True"
   },
   {
-    "question": "Secvența: for v ; do echo $v; done este echivalentă cu secvența: for v in \"$@\"; do echo $v; done.",
+    "question": "Secventa: for v ; do echo $v; done este echivalenta cu secventa: for v in \"$@\"; do echo $v; done.",
     "answers": [
       "True",
       "False"
@@ -6624,7 +6624,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda cd .. ne duce în directorul părinte.",
+    "question": "Comanda cd .. ne duce in directorul parinte.",
     "answers": [
       "True",
       "False"
@@ -6632,7 +6632,7 @@
     "correct": "True"
   },
   {
-    "question": "În urma execuției comenzii ls -l apar informații despre drepturile de citire, scriere și execuție asupra directoarelor și fișierelor.",
+    "question": "in urma executiei comenzii ls -l apar informatii despre drepturile de citire, scriere si executie asupra directoarelor si fisierelor.",
     "answers": [
       "True",
       "False"
@@ -6640,7 +6640,7 @@
     "correct": "True"
   },
   {
-    "question": "awk '{print $0}' nf - va afișa pe ecran doar prima linie din fișier.",
+    "question": "awk '{print $0}' nf - va afisa pe ecran doar prima linie din fisier.",
     "answers": [
       "True",
       "False"
@@ -6648,7 +6648,7 @@
     "correct": "False"
   },
   {
-    "question": "În succesiunea de comenzi shell: c1 || c2 c2 se execută doar în cazul în care c1 s-a terminat cu succes.",
+    "question": "in succesiunea de comenzi shell: c1 || c2 c2 se executa doar in cazul in care c1 s-a terminat cu succes.",
     "answers": [
       "True",
       "False"
@@ -6656,7 +6656,7 @@
     "correct": "False"
   },
   {
-    "question": "expr calculator : '\\(...\\)' - afișează \" cal \" pe ecran.",
+    "question": "expr calculator : '\\(...\\)' - afiseaza \" cal \" pe ecran.",
     "answers": [
       "True",
       "False"
@@ -6664,7 +6664,7 @@
     "correct": "True"
   },
   {
-    "question": "Directorul /var stochează fișiere de date variabile, cum ar fi fișierele de jurnalizare, fișierele spool și fișierele temporare.",
+    "question": "Directorul /var stocheaza fisiere de date variabile, cum ar fi fisierele de jurnalizare, fisierele spool si fisierele temporare.",
     "answers": [
       "True",
       "False"
@@ -6672,7 +6672,7 @@
     "correct": "True"
   },
   {
-    "question": "Efectul complet al apelului sistem popen este următorul: deschide un pipe apoi execută un fork().",
+    "question": "Efectul complet al apelului sistem popen este urmatorul: deschide un pipe apoi executa un fork().",
     "answers": [
       "True",
       "False"
@@ -6680,7 +6680,7 @@
     "correct": "False"
   },
   {
-    "question": "PID este numărul care se aloca unui fișier.",
+    "question": "PID este numarul care se aloca unui fisier.",
     "answers": [
       "True",
       "False"
@@ -6688,7 +6688,7 @@
     "correct": "False"
   },
   {
-    "question": "În comanda compusă pwd; { cd ..;pwd; }; pwd - ultimul pwd va afișa directorul părinte al directorului afișat de primul pwd.",
+    "question": "in comanda compusa pwd; { cd ..;pwd; }; pwd - ultimul pwd va afisa directorul parinte al directorului afisat de primul pwd.",
     "answers": [
       "True",
       "False"
@@ -6696,7 +6696,7 @@
     "correct": "True"
   },
   {
-    "question": "Funcția awk split(s,a,c) împarte șirul de caractere s în câmpuri și utilizează caracterul c ca separator. Valorile rezultate sunt specificate ca valori în tabelul a.",
+    "question": "Functia awk split(s,a,c) imparte sirul de caractere s in campuri si utilizeaza caracterul c ca separator. Valorile rezultate sunt specificate ca valori in tabelul a.",
     "answers": [
       "True",
       "False"
@@ -6704,7 +6704,7 @@
     "correct": "True"
   },
   {
-    "question": "Secvența de instrucțiuni: ls; fis; mv fis fis_new; ls va afișa fis.",
+    "question": "Secventa de instructiuni: ls; fis; mv fis fis_new; ls va afisa fis.",
     "answers": [
       "True",
       "False"
@@ -6712,7 +6712,7 @@
     "correct": "False"
   },
   {
-    "question": "În shell, (list) este executată în shell-ul curent.",
+    "question": "in shell, (list) este executata in shell-ul curent.",
     "answers": [
       "True",
       "False"
@@ -6720,7 +6720,7 @@
     "correct": "False"
   },
   {
-    "question": "Comanda \"grep -i cuvânt\" caută \"cuvânt\" fără a face diferența între litere mari și mici.",
+    "question": "Comanda \"grep -i cuvant\" cauta \"cuvant\" fara a face diferenta intre litere mari si mici.",
     "answers": [
       "True",
       "False"
@@ -6728,7 +6728,7 @@
     "correct": "True"
   },
   {
-    "question": "În comanda compusă pwd; { cd ..;pwd; }; pwd - ultimul pwd va afișa același director ca și primul pwd.",
+    "question": "in comanda compusa pwd; { cd ..;pwd; }; pwd - ultimul pwd va afisa acelasi director ca si primul pwd.",
     "answers": [
       "True",
       "False"
@@ -6736,7 +6736,7 @@
     "correct": "False"
   },
   {
-    "question": "Secvența: x=\"abc\"; echo \"${x}abc\" afișează abcabc pe ecran.",
+    "question": "Secventa: x=\"abc\"; echo \"${x}abc\" afiseaza abcabc pe ecran.",
     "answers": [
       "True",
       "False"
@@ -6744,7 +6744,7 @@
     "correct": "True"
   },
   {
-    "question": "Directorul /usr conține programe, biblioteci și documentație legate de utilizator.",
+    "question": "Directorul /usr contine programe, biblioteci si documentatie legate de utilizator.",
     "answers": [
       "True",
       "False"
@@ -6752,7 +6752,7 @@
     "correct": "True"
   },
   {
-    "question": "& așezată după apelul unei comenzi face ca acea comandă să se ruleze în background.",
+    "question": "& asezata dupa apelul unei comenzi face ca acea comanda sa se ruleze in background.",
     "answers": [
       "True",
       "False"
@@ -6760,7 +6760,7 @@
     "correct": "True"
   },
   {
-    "question": "Directorul /proc este un sistem de fișiere virtual care furnizează informații despre procesele care rulează și starea sistemului.",
+    "question": "Directorul /proc este un sistem de fisiere virtual care furnizeaza informatii despre procesele care ruleaza si starea sistemului.",
     "answers": [
       "True",
       "False"
@@ -6768,7 +6768,7 @@
     "correct": "True"
   },
   {
-    "question": "În shell, folosind '...' se evită semnificația specială a tuturor caracterelor din ... cu excepția '.",
+    "question": "in shell, folosind '...' se evita semnificatia speciala a tuturor caracterelor din ... cu exceptia '.",
     "answers": [
       "True",
       "False"
@@ -6776,7 +6776,7 @@
     "correct": "True"
   },
   {
-    "question": "În shell, folosind '...' se evită semnificația specială a tuturor caracterelor din ... cu excepția $ ` \\ \".",
+    "question": "in shell, folosind '...' se evita semnificatia speciala a tuturor caracterelor din ... cu exceptia $ ` \\ \".",
     "answers": [
       "True",
       "False"
@@ -6784,7 +6784,7 @@
     "correct": "False"
   },
   {
-    "question": "fork() va returna 0 în procesul părinte și PID-ul în copil și -1 în caz de eroare.",
+    "question": "fork() va returna 0 in procesul parinte si PID-ul in copil si -1 in caz de eroare.",
     "answers": [
       "True",
       "False"
@@ -6792,7 +6792,7 @@
     "correct": "False"
   },
   {
-    "question": "Comunicarea între procese prin intermediul unui canal fifo poate avea loc și dacă acele procese nu cunosc numele fișierului fifo respectiv.",
+    "question": "Comunicarea intre procese prin intermediul unui canal fifo poate avea loc si daca acele procese nu cunosc numele fisierului fifo respectiv.",
     "answers": [
       "True",
       "False"
@@ -6808,7 +6808,7 @@
     "correct": "True"
   },
   {
-    "question": "Directorul /boot conține fișiere legate de procesul de pornire.",
+    "question": "Directorul /boot contine fisiere legate de procesul de pornire.",
     "answers": [
       "True",
       "False"
@@ -6816,7 +6816,7 @@
     "correct": "True"
   },
   {
-    "question": "În shell, folosind `comanda` se captează ieșirea unei comenzi.",
+    "question": "in shell, folosind `comanda` se capteaza iesirea unei comenzi.",
     "answers": [
       "True",
       "False"
@@ -6824,7 +6824,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda find . -perm 775 găsește toate fișierele din directorul curent, care sunt executabile pentru utilizatorul curent.",
+    "question": "Comanda find . -perm 775 gaseste toate fisierele din directorul curent, care sunt executabile pentru utilizatorul curent.",
     "answers": [
       "True",
       "False"
@@ -6832,7 +6832,7 @@
     "correct": "False"
   },
   {
-    "question": "În Unix, separator de linii în fișiere text este un singur caracter LF (line feed).",
+    "question": "in Unix, separator de linii in fisiere text este un singur caracter LF (line feed).",
     "answers": [
       "True",
       "False"
@@ -6840,7 +6840,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda ls -a ne arată toate directoarele și fișierele ascunse (adică, care încep cu .).",
+    "question": "Comanda ls -a ne arata toate directoarele si fisierele ascunse (adica, care incep cu .).",
     "answers": [
       "True",
       "False"
@@ -6848,7 +6848,7 @@
     "correct": "True"
   },
   {
-    "question": "În shell, variabila de mediu NR reprezintă numărul de ordine al liniei curente (numărătoarea începe de la 1); linia cu nr. 1 este prima linie din primul fișier.",
+    "question": "in shell, variabila de mediu NR reprezinta numarul de ordine al liniei curente (numaratoarea incepe de la 1); linia cu nr. 1 este prima linie din primul fisier.",
     "answers": [
       "True",
       "False"
@@ -6856,7 +6856,7 @@
     "correct": "False"
   },
   {
-    "question": "\"$*\" returnează numărul argumentelor comenzii.",
+    "question": "\"$*\" returneaza numarul argumentelor comenzii.",
     "answers": [
       "True",
       "False"
@@ -6864,7 +6864,7 @@
     "correct": "False"
   },
   {
-    "question": "Directorul /dev conține fișiere de dispozitive care reprezintă dispozitive hardware.",
+    "question": "Directorul /dev contine fisiere de dispozitive care reprezinta dispozitive hardware.",
     "answers": [
       "True",
       "False"
@@ -6872,7 +6872,7 @@
     "correct": "True"
   },
   {
-    "question": "Pollingul efectuat de procesorul central către periferic este metodă sincronă.",
+    "question": "Pollingul efectuat de procesorul central catre periferic este metoda sincrona.",
     "answers": [
       "True",
       "False"
@@ -6880,7 +6880,7 @@
     "correct": "True"
   },
   {
-    "question": "În cazul în care un pipe este \"plin\" și sunt procese cu capătul de citire deschis, instrucțiunea write() va aștepta ca un proces să citească, astfel eliberând spațiu în pipe.",
+    "question": "in cazul in care un pipe este \"plin\" si sunt procese cu capatul de citire deschis, instructiunea write() va astepta ca un proces sa citeasca, astfel eliberand spatiu in pipe.",
     "answers": [
       "True",
       "False"
@@ -6888,7 +6888,7 @@
     "correct": "True"
   },
   {
-    "question": "val=`expr 2 + 2` echo \"Valoare: $val\" va afișa Valoare: $val.",
+    "question": "val=`expr 2 + 2` echo \"Valoare: $val\" va afisa Valoare: $val.",
     "answers": [
       "True",
       "False"
@@ -6896,7 +6896,7 @@
     "correct": "False"
   },
   {
-    "question": "În scriptul awk, pentru a specifica ; ca și separator de câmpuri, putem utiliza awk -f';' ...?",
+    "question": "in scriptul awk, pentru a specifica ; ca si separator de campuri, putem utiliza awk -f';' ...?",
     "answers": [
       "True",
       "False"
@@ -6904,7 +6904,7 @@
     "correct": "False"
   },
   {
-    "question": "Prin comanda ps -u numeUtilizator se afișează pe ecran procesele create de către utilizator.",
+    "question": "Prin comanda ps -u numeUtilizator se afiseaza pe ecran procesele create de catre utilizator.",
     "answers": [
       "True",
       "False"
@@ -6912,7 +6912,7 @@
     "correct": "True"
   },
   {
-    "question": "În cazul în care într-un program se apelează de două ori funcția fork() vor exista 2 procese ce vor rula în paralel.",
+    "question": "in cazul in care intr-un program se apeleaza de doua ori functia fork() vor exista 2 procese ce vor rula in paralel.",
     "answers": [
       "True",
       "False"
@@ -6920,7 +6920,7 @@
     "correct": "False"
   },
   {
-    "question": "Valoare pozitivă mai mare decât zero, pe care apelul sistem fork o returnează, este identificatorul de proces al părintelui.",
+    "question": "Valoare pozitiva mai mare decat zero, pe care apelul sistem fork o returneaza, este identificatorul de proces al parintelui.",
     "answers": [
       "True",
       "False"
@@ -6928,7 +6928,7 @@
     "correct": "False"
   },
   {
-    "question": "Fișierul standard de intrare are asociat descriptorul de fișier 2.",
+    "question": "Fisierul standard de intrare are asociat descriptorul de fisier 2.",
     "answers": [
       "True",
       "False"
@@ -6936,7 +6936,7 @@
     "correct": "False"
   },
   {
-    "question": "În shell, $nume, ${nume}, ${nume-cuvânt}, ${nume=cuvânt}, ${nume+cuvânt}, ${nume?cuvânt} sunt mecanisme de substituție a valorii variabilei \"nume\".",
+    "question": "in shell, $nume, ${nume}, ${nume-cuvant}, ${nume=cuvant}, ${nume+cuvant}, ${nume?cuvant} sunt mecanisme de substitutie a valorii variabilei \"nume\".",
     "answers": [
       "True",
       "False"
@@ -6944,7 +6944,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda awk '/pattern/' fișier afișează toate liniile din fișierul care conțin șablonul specificat (pattern).",
+    "question": "Comanda awk '/pattern/' fisier afiseaza toate liniile din fisierul care contin sablonul specificat (pattern).",
     "answers": [
       "True",
       "False"
@@ -6952,7 +6952,7 @@
     "correct": "True"
   },
   {
-    "question": "Un proces execută în două moduri de CPU: modul utilizator pentru codul aplicației și modul kernel în timpul apelurilor de sistem.",
+    "question": "Un proces executa in doua moduri de CPU: modul utilizator pentru codul aplicatiei si modul kernel in timpul apelurilor de sistem.",
     "answers": [
       "True",
       "False"
@@ -6960,7 +6960,7 @@
     "correct": "True"
   },
   {
-    "question": "În succesiunea de comenzi shell: c1 && c2 c1 se va executa în background.",
+    "question": "in succesiunea de comenzi shell: c1 && c2 c1 se va executa in background.",
     "answers": [
       "True",
       "False"
@@ -6968,7 +6968,7 @@
     "correct": "False"
   },
   {
-    "question": "Blocarea conciliantă - nucleul impune blocaje pe regiuni de fișier, blochează sau eșuează operațiile de I/O conflictuale până la eliberarea blocajului.",
+    "question": "Blocarea concilianta - nucleul impune blocaje pe regiuni de fisier, blocheaza sau esueaza operatiile de I/O conflictuale pana la eliberarea blocajului.",
     "answers": [
       "True",
       "False"
@@ -6976,7 +6976,7 @@
     "correct": "False"
   },
   {
-    "question": "grep s/1/0/g fis1 -> înlocuiește 1 cu 0, global, în fișierul fis1, modificând conținutul fișierului.",
+    "question": "grep s/1/0/g fis1 -> inlocuieste 1 cu 0, global, in fisierul fis1, modificand continutul fisierului.",
     "answers": [
       "True",
       "False"
@@ -6984,7 +6984,7 @@
     "correct": "False"
   },
   {
-    "question": "Comanda ls -lh ne arată dimensiunile fișierelor în unități pe care omul le poate citi și înțelege mai ușor.",
+    "question": "Comanda ls -lh ne arata dimensiunile fisierelor in unitati pe care omul le poate citi si intelege mai usor.",
     "answers": [
       "True",
       "False"
@@ -6992,7 +6992,7 @@
     "correct": "True"
   },
   {
-    "question": "Comanda awk '/[0-100]$/ { print }' fis.txt afișează fiecare linie care se termină cu numerele în intervalul [0-100].",
+    "question": "Comanda awk '/[0-100]$/ { print }' fis.txt afiseaza fiecare linie care se termina cu numerele in intervalul [0-100].",
     "answers": [
       "True",
       "False"

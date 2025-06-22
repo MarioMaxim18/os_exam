@@ -1,0 +1,7002 @@
+[
+    {
+      "question": "The exchange of information with memory uses the First‑fit placement policy.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Deadlock prevention is achieved through controlled resource allocation.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The first generation of computers, which appeared in the 1940s, had an operating system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The awk utility has predefined functions such as length(string), substr(s,p,n), and split(s,a,c).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "To determine a file's type you issue the command \"file filename\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The grep -i option makes the search case‑insensitive.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Every file has an inode that stores all information about that file except its contents and name.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The NRU (Not Recently Used) method is one of the page‑replacement policies for main memory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "To receive email on the destination system you can use the commands mail, mailx, or the pine utility.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"sort -n\" compares lines numerically.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"/var\", \"/boot\", \"/dev\", and \"/lib\" are the only top‑level directories in the UNIX file system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command \"touch me\" creates a file named \"me\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "read(fd, buf, 10) will return an error if the file contains fewer than 10 bytes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In dynamic memory allocation a process may be assigned multiple partitions, but no more than three.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command \"echo calculator >>filename\" appends the character sequence \"calculator\" to the end of the file \"filename\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "test 1 -ne 1 will return the value 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Generic specification is done using '*', '?', '[string]', '[!string]'.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "When assigning a value to a shell variable no space is placed before or after the '='.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, the predefined function index(s1,s2) returns the index at which the string s2 appears in s1, or 0 if it does not appear.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep comes from the English expression \"global/regular expression print\", meaning \"print global regular expression\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "echo ceva | sed 's/[^abce]/X/' will display the word \"ceXa\" after execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "mkfifo file creates a FIFO file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The cat command displays a file's contents, allowing the user to scroll up or down through that file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"sort -m\" merges (inter‑classifies) the input files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Disk access is done in two stages: positioning the arm on the desired cylinder and the actual data transfer.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep if file1 file2 displays all the lines from file1 and file2 that contain the sequence \"if\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"touch\" command creates a directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The pwd command displays the contents of a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In c1||c2, c2 is executed only if c1 terminated unsuccessfully.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The CPU first checks whether the requested data are in main memory and only then checks the cache.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The principle of a tree structure is that every file or directory has a single parent.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The FAT table contains information about disk space allocation for each file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Every operating system has its own way of organizing data on the hard disk.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "$= indicates the argument that contains the options.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The sequence for(i=1; i<=10; i++) fork(); creates 2 to the power of 10 processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "sed 's/^\\([a-z]*\\) \\([a-z]*\\) \\([a-z]*\\)/\\3 \\2 \\1/ g' file displays the first three words in reverse order.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, length(string) is not a predefined function.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "From the shell I can refer to the first command‑line parameter with $1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "[ -z string ] checks whether string is empty.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In C, declaring int t[123] performs static allocation.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command \"echo abcd efg | sed 's/\\([a-z]*\\) \\([a-z]*\\)/\\1\\2 /'\" removes the space between the words.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "sed '1,10 instruction' file executes the instruction on lines 1 through 10.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Excessive locking of a file means that only one process has access to the file or to part of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "$2 returns the second command‑line parameter.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"cat\" displays the contents of a directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Exclusive use of the same resources by multiple concurrent processes can lead to deadlock.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "stderr is file descriptor 2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep fi$ file1 file2 displays the lines from file1 and file2 that end with the word \"fi\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Opening a file prepares it for further processing; this is done with the open function.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The negation of [character_set] is written ^[character_set].",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "If only one process is running it will necessarily pass through the Preempted state.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "echo text displays the contents of the file text on the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "With the grep command we can pass a list of files as parameters, not just one file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Deadlock prevention is performed by controlled resource allocation.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In C, the constant O_APPEND opens a file for appending at its end.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The read and write functions return 0 if the end of file has not yet been reached.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "FCFS stands for \"First Come First Served\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command \"ps -u username\" displays the processes created by that user.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "tail -25 file displays the first 25 lines of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Choosing a \"victim\" process is one cause of deadlock.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The mkdir command creates a new file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "FIFO files are also called named pipes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Concurrent processes can use the same resources in common.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "getppid() returns the parent process ID of the current process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"echo\" command is used to remove text or variable values from the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command \"cd ..\" moves us out of a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A CD is a magnetic storage medium.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The \"break\" command exits the program.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The close() function is used to open a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The -v option of grep shows the lines that do not contain the given string.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In sed, the flags part of s/regular_expression/string/[flags] may be omitted.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "After executing \"echo ceva | sed 'y/abc/ABC/'\" the text \"CeVa\" will be displayed.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Parallel processes collaborate with each other.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"joe\", \"nano\", and \"pico\" are compilers.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "C.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"SleepSwapped\" process state means the process is swapped out and remains so until an event wakes it.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "test -z string checks whether string is empty.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, the predefined variable NF denotes the number of words in the current line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A program is a sequence of instructions that describes the operations to be performed during execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In a regular expression, ^ represents the beginning of a line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "HOSTNAME, HOME, SHELL, MAIL, and PS2 are predefined shell variables.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A shell can be viewed as a command language or a programming language.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "[ 1 -ne 1 ] returns the value 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The break and continue instructions relate to leaving and reiterating the loops for, while, and until.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "finger, w, who, last, id are file‑handling commands.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "chmod 754 gives all rights to the owner, read and write rights to the group, and read rights to others.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "grep gr711 /etc/passwd | cut -d: -f1 returns only the login names (field 1) of the users in group 711.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command \"expr 5 * 2\" will return 10.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "sed 's/one/ONE/' file replaces all occurrences of \"one\" with \"ONE\" in the first line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "FIFOs are anonymous pipes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the shell, all repetitive control structures are 'for' loops.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "tail -25 file displays the last 25 lines of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Unix is characterized by Simplicity, Flexibility, Interactivity, Time‑sharing, Multi‑user, and Multi‑tasking.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep -h expr displays the file name.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "If no error occurred, the open function returns the file descriptor of the opened file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"..\" refers to the current directory and \".\" to the parent directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"$0\" returns the name of the current shell.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The wait() function is used to wait for the parent process to end and obtain its return value.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "g=stiu; p=ceva; echo $g p will print \"stiu p\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The pure part of a process in memory does not change during execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The processor is part of a computer's operating system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "a=1+1; echo $a will print 2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The awk predefined function substr(s,p,n) returns the substring of s starting at position p with length n.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The only way to create a process is through the fork system call.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "echo da; echo nu > file writes \"da\" and \"nu\" to the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The lseek system call in C moves the cursor within a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, ARGV is a predefined variable that remembers the command‑line parameters.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Unix was the first OS to use a tree structure for organizing data on the HDD.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "x=\"abc\"; echo \"${x}abc\" prints abcabc on the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command \"man -k keyword\" searches for the keyword in all available manuals.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The sequences a=$((1+1)) and a=`expr 1 + 1` are equivalent.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In c1&c2, c2 executes in the foreground while c1 runs in the background.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"SleepMemory\" process state means the process is sleeping in memory until an event occurs that wakes it.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Relative specification is done by giving the path starting from the current directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "After a process closes one end of a pipe it can reopen that end again to perform further I/O on it.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The pure part of a process in memory consists of stack, uninitialized data, and initialized read‑write data.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "expr length STRING returns the length of the given string.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The impure part of a process in memory consists of stack, uninitialized data, and initialized read‑write data.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Running expr string : '.*' will print the number of characters in the word \"string\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The test command is equivalent to \"[ ]\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"sed\" command searches for a specific character string in one or several files and outputs the result to the standard output.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In C, the constant O_WRONLY means opening a file for read‑only access.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Cache memory is part of main memory and behaves like a pool of copies of locations from main memory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Space for dynamic variables is allocated in the heap area.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A UNIX disk is made up of the boot block, the superblock, the i‑nodes and the data blocks.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Every UNIX disk has a main/root directory from which other directories and ordinary files can descend.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "PWD is the abbreviation for “password protected”.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Reading from a FIFO consumes (removes) the information.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "System calls are a set of services through which access to the hardware and software resources managed by the system is obtained.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "An external channel can be opened, at either end, by any process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The FIFO (First‑In First‑Out) method is one of the page‑replacement policies for main memory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A child process inherits all variables (with their values) from the parent process up to the moment of the fork() call.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Unix file systems have a cyclic graph structure.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In a regular expression the ^ symbol at the beginning denotes negation.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The internal structure of a UNIX disk consists of the boot block, the superblock, the i‑nodes and the data blocks.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Temporary buffer zones are a technique used to compensate for the differences in access speed between various peripherals.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Symbolic links can be created between different file systems.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The finger command displays information about all users currently logged into the system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The popen system call first opens a pipe and then performs a fork().",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "To terminate the current process, Linux provides the close system call.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Several processes can read the same information from a pipe file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "wc counts the characters, lines and/or words in each file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"ls\" is an external command.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "You can write as much data as you like into a pipe.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The pure part of a process in memory changes during execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "When the instruction read(fd, buf, 50) returns 0 it means the end of the file has been reached.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "dup2(4, 0) is equivalent to the redirection \"< ana.txt\" provided the file ana.txt has descriptor 4.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In C, the constant O_RDWR opens a file for both reading and writing.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Operating systems appeared right from the very first generation of computers.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The sequence \"false && { echo \\\"SOMETHING\\\"; }\" executes nothing.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The less command displays the contents of a file, allowing the user to scroll up and down.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "sed s/a/A/ replaces every lowercase 'a' with an uppercase 'A'.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "There is no file of type pipe in Unix.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In UNIX, communication channels between processes are created using the fork() system call.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The instruction sequence $ ls; $ mv file file_new; $ ls will display \"file\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the Run User state the instructions are executed in kernel mode.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The fork() function creates a process identical to the parent process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The finger command displays the users who have been logged in during the last month.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The * symbol repeats the preceding character interpreted as a regular expression any number of times.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The continue command exits a repetitive structure that is currently executing.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The wait() function is used to wait for the child to finish and retrieve its return value.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The wc command displays the number of lines, words and bytes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Deleting an object that has a hard link as well as one that has a symbolic link is restricted.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The concept of mounting means attaching a file system (for instance from an external HDD) to a directory in the existing file system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, ARGC is a predefined variable that holds the number of command‑line parameters.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "To avoid mis‑interpretation of special characters the escape character \"/\" is used.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The impure part of a process in memory changes during execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The buddy system is also called the buddy‑memory allocation method.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "To see all active users currently connected to a server at a given moment you use the command \"less /etc/passwd\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In C, the constant O_RDONLY means opening a file only for writing.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "To multiply in the variable p (in a shell) the first two numbers from the command line you use p='expr $1 \\* $2'.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "An external channel is a channel through which two separate processes can communicate, the communication being performed through a FIFO file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep outputs \"0\" if it has not found the pattern and \"1\" if it has.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "You cannot pass more than one file as command‑line parameters to sed.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "sed y/a/ab/ file is syntactically incorrect.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A FIFO file is marked with the letter \"p\" in the first access‑rights field when you run ls -l.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Unlike a program, a process is dynamic, its image in memory can differ from one execution to another depending on the working context.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "pid is the identifier of the parent process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "We check whether the previous command executed successfully with \"$?\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "stdin = 2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The sequence num=3*10+4; echo $num outputs 34 to the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A process is a program in execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "With mandatory locking the system checks at every read and write whether the file is locked.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The standard input file (stdin) 0 takes as input what is entered from the keyboard.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In grep we use * to repeat the character/regular expression in front of it any number of times.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "fork() returns the PID of the child in the parent process, 0 in the child and -1 on error.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "File specification is generic and relative.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the shell you can refer to the first line of a file with $0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "echo \"Hello\" | sed 's/Hell/Heaven/' will display \"Heaven\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Electronic storage technology represents bits by the presence or absence of electric charges or by changing the state of certain circuits (closed‑open).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Hard links cannot be created between two distinct file systems.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep -c \"example\" file displays the number of occurrences of the word \"example\" inside the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The process scheduler has the task of freeing the processor when a process leaves the RUN state.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the Zombie state the process waits to be reaped and closed by the parent.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the shell, the environment variable NF denotes the number of words on the current line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The simultaneous presence in main memory of several processes executing concurrently is called multiprogramming.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Both the function that creates an internal channel and the one that creates an external channel automatically open the two ends.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The echo and exit commands are not useful in the shell.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "test -x file checks whether file is an executable file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "When running expr string : 'ing' it returns 3 because the last 3 characters match.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The sequence g=stiu; p=ceva; echo $g $p prints \"stiu ceva\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "awk -v v=zece '{print \"Nota \", v}' file prints \"Nota zece\" only once, regardless of what the file contains.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "awk '{print $NF, NF}' file prints all words on all lines of the file and how many words are on each line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the temporary buffer technique, when reading from a file the producer is the external peripheral.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The read function returns the number of bytes read from the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A process that once opened one end of a channel can later reopen the other end even if it has closed the first.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Each process has a unique identifier (pid).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"-M\" option of the sort command compares month names such as \"AUG\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A process that calls wait or waitpid may receive an error (e.g. if it has no child processes).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The sed command does not process the input file line by line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The FAT (File Allocation Table) file system is mainly used by current Windows systems.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Absolute specification is done by giving the path relative to the current directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The device from which a file system has been mounted cannot be removed until it is unmounted.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The access speed of any type of memory is the same.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the shell, the environment variable FS contains the field separator.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The shell language has no variables.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In sed the y instruction can modify the file given as a parameter.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "sed y/ab/cd/g file is syntactically incorrect.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In a regular expression, if the $ sign is the first character it denotes the end of line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "FCFS (First Come First Served) is the most complex and optimal scheduling algorithm.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the Zombie state the process still exists but the information that it has terminated has been reaped.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "echo variable displays the value of the variable.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "If fork() is called twice in a program four processes will be created and will run in parallel.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "To multiply in the variable p (in a shell) the first two numbers from the command line you use p=`expr $1 \\* $2`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The internal structure of a UNIX disk consists of the boot block, the superblock and the i‑nodes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The most expensive solution to internal memory fragmentation resulting from dynamic allocation is to relocate partitions.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The wait function waits for a child to finish without blocking the calling process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In a regular expression [1-7] represents a digit from 1 to 7.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "awk '{print $0}' file will display the first line of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The chmod command is used to change the rights of directories and files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "/lib contains documentation, libraries, executables, etc. of the system or installed by users.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The circular wait condition is a necessary condition for a deadlock to occur.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The keyboard is an input peripheral.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "awk '{print $1}' file displays the first word of each line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep -I a file displays only the lines in file that contain \"a\" or \"A\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In sed the instruction d deletes the current line (the pattern space).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Reducing access to neighbouring sectors is an inefficient optimisation method.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The first generation of computers had no operating system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep -w -l needle haystack.txt returns only the name of the file in which the word \"needle\" was found, if it was found.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The END condition in awk is true after the last line of the last file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The sed command '10,$ instruction' file1 file2 – executes the instruction on every line from 10 to the end of the virtual file obtained by concatenating file1 and file2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"FAT\" is an abbreviation for \"File Allocation Table.\"",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"df\" command shows how much free space is still available on the disk used by the file system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "dup2(3,1) causes everything written to the screen (stdout) actually to be written to the file whose descriptor is 3.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep s/1/0/g file1 – substitutes 1 with 0 globally in file1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "With the mv command we move or rename files and/or directories.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A shell script file must be compiled.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "UID denotes the identifier of the user who launched the process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A semaphore is a pair (v(s), c(s)), where v(s) is an integer variable and c(s) stores pointers to the processes waiting at semaphore s.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In C, the constant O_WRONLY opens a file for write‑only access.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The queueing discipline at a semaphore does not depend on the operating system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The expression expr 10 * 5 returns 2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The parent process will execute after the child process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In awk, the predefined variable FS contains the field separator.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "awk '{print NF}' file – prints the number of words on each line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The -c option of grep will display both the number of lines matching the regular expression and the matching lines themselves.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command \"grep -v 'b' file\" will output all the words that contain the letter b.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "To access a data block, the disk drive performs two stages: positioning the read/write head on the desired cylinder and performing the actual data transfer.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "UNIX does not distinguish between uppercase and lowercase letters.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "When assigning a value to a shell variable, you leave a space before and after the '='.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The /boot directory contains the UNIX kernel and the files needed during the boot process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Absolute specification is done using the wildcards '*', '?', '[string]', and '[!string]'.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In a regular expression, if the dollar sign ($) is the last character it denotes the end of the line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "EUID stands for effective user ID.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "echo ?$ prints the return code of the previous command.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "ls, pwd, cat, find, locate, file, more, less, rm, mkdir and rmdir are commands for obtaining information about users.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In grep you can display the lines that do not match the regular expression by using the n option.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command \"awk '/[0-100]$/ { print }' file.txt\" prints each line that ends with a number in the range 0‑100.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Command options can be supplied after the command only with the '-' sign.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Both the initialized read‑only, initialized read‑write, and the uninitialized data of a process are resident on the disk.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The pwd command shows the absolute path of the current directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "sed processes text files according to a sed script, without using any buffer.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the temporary buffer technique, when writing into a file, the consumer process is the one that consumes the information.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In C, a file is identified by a so‑called descriptor that is associated with the file when it is opened.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The process scheduler's task is to keep track of all the processes in the system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "echo \"1 - 1\" | tr \"-\" \"+\" displays 1 + 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The find command searches for a character string in a file or in several files and prints the result to standard output.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A C program is compiled with gcc.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "{ echo da; echo nu; } > file writes \"da\" and \"nu\" to the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "expr index \"Ana are mere\" a outputs 3 on the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "for f; do echo $f; done displays all the parameters passed on the command line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Cache memory contains the information most recently used by the CPU.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The continue command causes execution to jump to the next iteration of the current loop.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Changing attributes is faster through symbolic links than through hard links.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A newly created process enters the ReadySwapped state if there is not enough memory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Symbolic links cannot be created between two distinct file systems.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "FIFO files are closed with the close function.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In “$ command arg1 arg2 … arg10” the first argument, arg1, is referred to by $1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "An operating system is an interface between hardware and software that manages applications and hardware devices.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In C, if the read function reaches exactly the end of file it returns -1, and on error 0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "FAT means File Location Table.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The Unix operating system was the second to use a tree structure.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The process scheduler chooses which process gets RAM and for how long.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "NF, NR, FNR, FS and FILENAME are predefined awk variables.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In close(fd), fd is the file descriptor obtained from open.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command \"cd ..\" moves you to the parent directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The biggest time consumer in disk access is positioning the arm on the desired cylinder.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In \"cat /etc/passwd | grep gr71. | less\" the dot '.' stands for any character.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "To delete a file you use the command rm file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command \"rm -r\" deletes the contents of a directory that contains other directories or files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the temporary buffer technique applied to cache memory, main memory is both producer and consumer.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Virtual memory is the ability to address a memory space larger than the available physical memory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "For reading data from an open file, the read function takes three parameters: int fd, void *buf, size_t count.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"SJF\" stands for Shortest Job First.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The negation of [character_set] is written [^character_set].",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "awk '{x[NR]=$0;} END {for(i=NR;i>=1;i--) print x[i]}' file prints the lines of a file in reverse order.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "a=$((1+1)); echo $a will print 1+1 on the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Processes are executed strictly in the order in which they were created and their importance is not taken into account.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "s=0; for f; do s=`expr $s + $f`; done computes the sum of all the parameters given on the command line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The cd command creates a directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The \"cp -r\" command copies directories recursively.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "head -25 file prints the last 25 lines of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The parent process can wait for the child to finish using the hold or holdpid system calls.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Rebooting the operating system is one method of exiting deadlock.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In a regular expression, [11-20] represents a number from 11 to 20.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Concurrent processes are those that can inter‑communicate or run in parallel, for example by sharing resources.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "To read EOF from a pipe, all processes must first close the write end (descriptor p[1]).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A child process inherits all the instructions of the parent process up to the moment of the fork() call.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "With umask I can change the default permissions but I cannot view them.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The standard files are: stdout 0, stdin 1 and stderr 2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "UNIX system calls invoke the kernel functions of the OS directly.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A FIFO file can be created with the command mkfifo.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The phases of translating a program are: compilation, linking, loading, execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "mkdir fifo implicitly creates a named pipe.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "prw-r-.... marks a pipe file, whereas drwxr-xr... marks a directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "getuid() returns the group identifier (gid) of the user that started the current process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "find test -name \"[0-9]\" displays the files or directories in the “test” directory whose names contain a digit.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In c1&&c2, c2 executes only if c1 terminates successfully.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Unix cannot handle several filesystem types at the same time.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "awk 'NR==1, NR==5 {print}' file.txt prints lines 1 through 5 from the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "FCFS (First Come First Served) is a process‑scheduling algorithm.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The pure part of a process in memory consists of the text (code) area and initialized read‑only data.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A 'Broken Pipe' occurs when two processes both wait to read from a pipe.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The function that creates an external pipe does not also open it; after creation both ends must be opened explicitly with open().",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "[ -n string ] checks whether string is empty.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the shell, the environment variable FILENAME represents the name of the current file being processed.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The “/mnt” directory is reserved for mounting file systems.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command \"grep -i word\" searches for a word without distinguishing between uppercase and lowercase letters.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "dup(fd) returns the first free descriptor.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "RAM is an optical storage medium.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "finger, w, who, last and id are commands for obtaining information about users.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, the predefined condition BEGIN is true before the first line of the first file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "a=1+1; echo $a outputs 1+1 on the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Inter‑process communication via a FIFO is possible even if those processes do not know the name of the FIFO file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The -q or -s options of grep cause the command to print nothing on the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "stdout = 2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In a pipe, pfd[0] is the write end and pfd[1] is the read end.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In awk, the predefined function index(s1,s2) checks whether the strings s1 and s2 are equal.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "sed 's/e/E/g' file1 > out redirects the output to the file out, which will contain the final result.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the shell, the environment variable NR indicates the line number (starting at 1); the first line in the first file has number 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The internal structure of the disk and of the Unix filesystem is the FAT table.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "read x – here x is a variable that will receive what is typed from the keyboard.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the temporary buffer technique, when writing to a file the producer process is the one that produces the information.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "For two or more processes to communicate through a pipe, they must have access to both descriptors p[0] and p[1].",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "There are three ways to terminate a process: the exit call, receipt of a termination signal (SIGKILL), or a system crash.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "sed -p file prints every line twice.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "When a request is made for a disk sector, if it is found in the cache the request is served with the cached copy and the access is considered complete.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In C, the constant O_RDONLY opens a file for read‑only access.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "After the command chmod 655 prog the user will have execute right on the file prog.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "echo \"text\" prints \"text\" to the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command \"grep gr711 /etc/passwd | cut -d: -f1\" returns all information about the members of group 711.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "After dup2(3,2) everything that would normally be written to the screen is instead written to the file whose descriptor is 3.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The heap is a memory area used for dynamic allocation.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A deadlock can be cleared by rebooting the operating system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The amount of data that can be written to a pipe at one time is limited.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The kernel context is maintained by the kernel and can be accessed only through specific system calls.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"last\" command shows the users who have logged in during the past month.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The operating system manages applications and hardware devices.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In a regular expression, if the caret (^) is the first character, it denotes the beginning of a line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The standard file \"stdin\" outputs to the monitor.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Cache memory has a very large capacity but a very long access time.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The first operating system appeared in the 1960s.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"grep\" searches for a string in one or more files and prints the results to standard output.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Relative specification is done using the wild‑cards *, ?, [string], and [!string].",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command \"echo \\\"1 - 1\\\" | tr \\\"-\\\" \\\"+\\\"\" outputs 2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The sequence Created → ReadyMemory → RunKernel → RunUser is traversed by a high‑priority process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"stderr\" is file descriptor 0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The wait function blocks the calling process until one of its children terminates.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A FIFO file is marked with the letter \"f\" in the first permission field shown by \"ls -l\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"dup\" and \"dup2\" allow two different files to be accessed through the same descriptor.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"ls -lh\" shows file sizes in human‑readable units.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"test 1 -ne 1\" returns the value 0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The amount of data that can be written to a pipe is unlimited.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"grep ^if fis1 fis2\" displays the lines in fis1 and fis2 that do not contain the sequence \"if\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"awk '/[a-z]/ { print }' fis.txt\" prints only the columns that contain lowercase letters.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The \"touch\" command creates a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"dup\" and \"dup2\" allow the same file to be accessed through two different descriptors.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Running \"ls -l\" displays information about read, write, and execute rights on directories and files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The shell is a command interpreter for Linux and also a programming language.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the shell, a backslash (\\) neutralises the special meaning of the next character.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The pure part of a process’s user context in memory does not change during execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"/home\" is not a top‑level directory of the UNIX file system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The snippet \"for color in red blue green echo $color\" prints red blue green.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"stdout\" is file descriptor 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"grep fi$ fis1 fis2\" prints the lines in fis1 and fis2 that end with \"fi\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A process is dynamic; it represents the set of program activities executed depending on the context.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The tree structure together with hard and symbolic links gives the UNIX file system an acyclic graph structure.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"find test -name \\\"[a-z]\\\"\" lists those files or directories in \"test\" whose names consist of a single letter.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"sort < fis1 > fis2\" sorts the lines of fis1 and writes the result back to fis1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"sed s/^a/b/g fis\" changes \"a\" to \"b\" only at the beginning of the line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"chmod +x myscript.sh\" gives execute permission to the specified shell script.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Each entry in the FAT table can occupy only 16 bits.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"stdin\" is file descriptor 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the temporary‑buffer technique, when writing to a file the consumer is the external peripheral.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Creating a pipe before forking causes the child process to inherit the pipe.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Optical storage records bits as magnetised particles charged positive or negative.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In awk, length(string) is a predefined function.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Inside the branch \"if (fork()==0)\" we write code for the parent process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Changing attributes via a hard link is fast, whereas via a symbolic link it is slow.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "There are two kinds of pipes: internal and international.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"awk\" processes each input line in turn and executes the actions when the associated condition is true.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Unix supports multiple file‑system types at the same time.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "File specification can be only absolute or relative.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "NTFS stands for NT File System.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"sort < file\" sorts the lines of the file in descending order.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In a shell, \"if [ $# -eq 0 ]\" checks whether the number of parameters is 0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A cylinder refers to all tracks with different numbers that lie on the same platter.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A process in state \"ReadyMemory\" occupies RAM and is ready to execute.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"awk '{print $NF}' file\" prints the number of words on each line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"stdin\" is file descriptor 0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Round‑Robin is a circular scheduling algorithm.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, FNR is the ordinal number of the current record in the current file; numbering restarts at 1 for each file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"rmdir\" command can delete directories regardless of whether they are empty.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Default permissions can be set or viewed with the \"umask\" command.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"getpid()\" returns the PID of the current process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In generic specification the character \"?\" can replace exactly one character of a file name.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Data on disk are read and written in blocks.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The file system is part of the kernel.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A CD is an optical storage medium.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the temporary‑buffer technique, during writing the producer is the external peripheral.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "With grep you can search for a sequence of characters in a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "If several processes write to the same pipe, the one with the lower PID has priority.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The file system organises and manages all the data transferred within the system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"mkdir\" command creates a directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"stderr\" is file descriptor 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Exclusive locking of a file means that only one process has access to that file or part of it.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The standard output (stdout, descriptor 1) goes to the console monitor from which the command was launched.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Reading from a pipe consumes the data.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"wc -l\" command counts lines.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"awk '/[Mm]aria/{print}' /etc/passwd\" finds all occurrences of \"maria\" that start with M or m.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the shell, the FNR environment variable represents the ordinal number of the current record in the current file; numbering restarts with each file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"$!\" gives the PID of the most recently started background process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "An operating system is an interface between hardware devices and applications.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The user context is the part of a process address space that is accessible in user mode during execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"dup2()\" associates the open file with the given descriptor and also returns the first free descriptor, associating it with the same file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "PID stands for Process ID.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"$?\" stands for all arguments as a sequence of strings.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "BEGIN and END are predefined awk conditions.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"$!\" gives the PID of the first background process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In C, open returns 0 if an error occurs.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Unix file systems have an acyclic graph structure.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"/etc\" is a top‑level directory that contains configuration files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Reading from a FIFO does not consume the data.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"rm -r\" is used only to delete empty directories.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"ls\", \"pwd\", \"cat\", \"find\", \"locate\", \"file\", \"more\", \"less\", \"rm\", \"mkdir\", and \"rmdir\" are file‑handling commands.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "During its execution a program needs the same amount of memory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command \"grep -i test fis.txt | awk '/[0-9]/ { print }'\" prints all lines containing the word \"test\" and a digit.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A file must be closed after use with the close function.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"echo \\\"Mara are mere\\\" | wc -c\" outputs 3.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"ls\" lists the contents of a directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "To multiply in variable p the first two numbers supplied on the command line use p=$1*$2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In Unix a process that has finished and whose parent has not executed wait is called a zombie.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"passwd\" command shows the user's password.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Because Unix commands are case‑insensitive, Dir1, dir1 and dIR1 are considered the same.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The waitpid function waits for a specific child process, identified by its PID passed as argument.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The FAT table does not have as many entries as there are clusters on disk.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A process in state \"ReadySwapped\" is swapped out; before it can run it must first enter ReadyMemory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "ppid represents the parent process ID.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"[ file1 -nt file2 ]\" checks whether file1 is newer than file2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "joe, pico, nano and more are text editors.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The I/O channel facilitates communication between the CPU and peripherals.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"pipe\" call creates two descriptors: one for reading and one for writing.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "UNIX is a portable operating system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"chmod 754\" gives all permissions to the owner, read and execute to the group, and read to others.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In c1;c2;c3, c2 and c3 run only if the previous command succeeded.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "GID denotes the identifier of the user who started the process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Prefixing a variable with $ in the shell substitutes its value.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "\"pwd\" shows the current directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A process image in kernel context is maintained by the kernel and can be accessed only through specific calls.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Polling means performing checks at equal intervals to see if peripheral data are available.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the RunUser state the program’s instructions are executed.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The read function returns 0 if the end of file has been reached.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "PWD stands for \"print working directory.\"",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The break command causes execution to skip to the next iteration of a running loop.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A process that has closed one end of an external pipe can no longer reopen that same end.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The fork() call creates an internal (anonymous) pipe.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Generic specification is done by giving the path starting from the current directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Applications are part of a computer’s operating system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A C program prog.c is run with: ./prog.c .",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command \"ls -a\" shows all directories and hidden files whose names start with \".\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "There are two modes in which a process can run: user mode and kernel mode.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "[ 1 -ne 1 ] will return 0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the temporary‑buffer technique, when reading from a file the consumer process is the one that consumes the data.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In C, the constant S_IWUSR means write permission for the owner of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Magnetic storage technology represents bits as microscopic cavities that reflect light differently.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A directory is organised as a table with one entry for every file in that directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Relative specification is obtained by giving the path starting from the root directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "/bin, /boot, and /home are top‑level directories found at the root of a UNIX file system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The \"kill\" command sends an interrupt‑type signal to a process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, the END condition becomes true after the last line in every input file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "To repeat a regular expression exactly n times in grep, use {n}.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, fields are accessed with $1, $2 … $NF, and the whole line with $0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "After fork(), changes made in the child process can be seen by the parent process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A pipe is an entity that, syntactically, the system call treats just like a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The monitor is an input peripheral.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "After the code: pid=fork(); if(pid==0){fork();} there will be a total of 3 active processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep '^(.*) (.*) \\1$' file prints all lines that start and end with the same word.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "[ -x file ] checks whether the file named \"file\" exists (and is executable).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The instructions: number=13; expr $number - 3 will display 10.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "$# returns the number of command‑line arguments.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The NRU replacement policy stands for Not Recently Used.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "sort < file1 > file2 sorts the lines of file1 and writes the result into file2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the i‑node mechanism, Group ID (GID) is the identifier of the owner.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In Linux it is impossible to write several commands on the same line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Only one process can communicate through a pipe.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Directory files are viewed as byte strings with no special logical organisation.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the i‑node mechanism there are two levels of indirection: single and double.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In awk, the predefined variable FILENAME holds the name of the current file being processed.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "nr=`expr 2 + 3` is equivalent to nr=$((2+3)).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "External pipes are not stored in the file system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "After dup2(), the descriptor newfd refers to the same file as oldfd.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Between the commands: a) x=hello world; echo $x  and  b) x=\"hello world\"; echo $x  there is no difference.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The \"nice\" command changes the scheduling priority of a command.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Controlled resource allocation is a condition for the appearance of deadlock.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "#!/bin/bash indicates that the commands in that script will be interpreted by /bin/bash.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In sed, the p instruction prints the temporary buffer.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Reading from a FIFO consumes the data.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Sequence: p=34; g=$p; echo g will print 34.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "$? returns the exit code of the previous command.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "getuid() returns the user identifier of the user who started the current process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "[ expr ] evaluates the expression and returns exit status 1 or 0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "head -25 file prints the first 25 lines of file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In C, the current position indicator in a file can be set explicitly with lseek.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "dup2(): to free the descriptor given as the second argument, it first closes it and then performs dup().",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "read x – here x is a file name into which strings will be read.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "To open the read end of an external pipe, the process must close the write end first.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The impure part of a process in memory does not change during execution.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In a pipe, pfd[0] is the read end and pfd[1] is the write end.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "mkfifo filename deletes a FIFO file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "sed '1,10 instructiune' file executes the instruction on lines 1 through 10.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In awk, NF is the number of fields, not the line number.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "External memory consists of secondary storage and archival storage.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Generic specification is obtained by giving the path starting from the root directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The standard files are stdin:0, stdout:1, and stderr:2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A process is a program in execution that uses a set of system resources (memory, CPU, disk, network, etc.).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Advisory locking – the system checks on every read or write whether the file is locked.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "find -type d lala lists all directories within directory lala.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In awk, the predefined variable NR is the ordinal number of the current record (starting at 1).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "On a single‑processor architecture, several processes that appear to run simultaneously are in fact served alternately by the CPU.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The expr command evaluates only logical expressions.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Parallel processes do not influence each other and do not collaborate.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "For bidirectional communication between processes a single named pipe is recommended.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A shell script is a text file containing one or more commands.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "sed processes text files according to a script and normally writes to standard output.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "For reading data from an open file, read takes only one parameter: int fd.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In sed, an empty condition is false for all lines in the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "To find how many times a user has logged in during the last week, use: last | grep 'username'.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A FIFO file is created with a text editor.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In awk, the predefined variable FNR restarts at 0 for each file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "sort -m is used to remove lines that appear more than once.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In a regular expression, [^chars] is the negation of [chars].",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "lseek(fd, -100, SEEK_END) positions the indicator 100 bytes before the end of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Using fork() is a way to create more processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "From the SleepSwapped state a process can go directly to RunUser.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "grep returns exit code 0 if it finds the sequence and 1 otherwise.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Symbolic links link to the file name, while hard links link to the file itself.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "ps displays all files you have previously accessed.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The NRU method is one of the page‑loading policies.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The LRU method is one of the page‑replacement policies.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command \"ls -d\" shows the contents of files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "[ file1 -nt file2 ] checks whether file1 is newer than file2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Virtual allocation is segmented and paged.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Unix was the first OS to use a tree structure for directories and files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In write(fd[1], \"message\", 4) and read(fd[0], message, 10) descriptor 1 is used for writing and 0 for reading.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In sed, p is used as a condition.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Every process must keep open the pipe end it does NOT use.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command grep \"are mere\" t? searches the sequence in files whose names start with 't'.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep \"ceva\" A | sort > file will print nothing on the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "FILENAME, NF, FNR, NR are predefined shell variables.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "File specification is generic and absolute.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "An external pipe cannot be opened at either end by any process that has rights.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "test -x file checks whether the file exists.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "After fork(), the child's PID equals the parent's PID.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "After fork(), the two processes continue execution in parallel.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "grep if file1 file2 prints all lines in file1 and file2 that contain the word \"if\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A pipe cannot be established between two related processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In awk, NR is the number of words on a line and NF is the current line number.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A FIFO file is created with mkdir.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"man\" is an internal command.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "exit(0) terminates the parent process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "\"Web cache\" keeps copies of the most recently accessed memory areas.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In c1;c2;c3 the three commands run sequentially in the order c1, c2, c3.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "To access a variable’s value in awk you must use $.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the Zombie state the process no longer exists, but the notification has not yet been collected by the parent.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "file filename | grep -q \"ASCII\"; [ $? -eq 0 ] checks whether the file is ASCII.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Ensuring the correctness of operations executed concurrently is a problem related to resource access.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A Unix system is organised in three layers: kernel, shell, applications.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Usually options with - set something, and options with + unset it.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "grep ^if file1 file2 prints lines in file1 and file2 that start with \"if\".",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "PID is the number assigned to a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command `more file` lets you view the contents of a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The `du` command recursively displays the sizes of the directories and files contained in the directory supplied as parameter.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command `expr length \"er la\"` returns 4.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Creating a checkpoint (“restart point”) is a method of exiting deadlock.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command `ls -l` shows additional information about files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The `kill` command sends an interrupt‑type signal to a process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command `find -type f fifo` is correct and will list all files inside the directory `fifo`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Polling performed by the CPU and the interrupt issued by a peripheral are asynchronous methods.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`sed s/a/abc/g file` is syntactically wrong because a single letter cannot be replaced by a whole string.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`grep fi$ file` prints the value of the variable `fi` from the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Internal memory allocation can be either real allocation or virtual allocation.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the i‑node mechanism, the field `size` represents the number of bytes (length) of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The `file` command shows all the directories and sub‑directories in the current directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`sed 'y/abcd/ABCD/' test` replaces every lowercase letter a, b, c, d with the corresponding uppercase A, B, C, D in `test`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The function that creates an external pipe automatically opens its two ends.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`[ -x file ]` checks whether `file` is executable.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A file descriptor is an integer associated with the file when it is opened.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Absolute specification is done by giving the path starting from the root directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`echo Bunaziua | sed 's/ziua/seara/'` changes “ziua” to “seara”.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `sed`, the address `$` refers to the last line of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "An internal pipe exists only in memory and lets two or more processes communicate.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`echo \"mar x portocala\" | tr \"x\" \"&\"` outputs `mar & portocala`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`awk '{print $1}' file` prints the first command‑line parameter.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`sed '1,5 d' file` displays lines 1 – 5 of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "For an NTFS file, the file name, security information and the data themselves are all attributes of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the shell, to multiply two numbers you must escape the `*` as `\\*`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`$?` returns the PID of the parent process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`$#` returns the number of command‑line arguments.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`$$` gives the PID of the most recently started background process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`test file1 -nt file2` checks whether `file1` is older than `file2`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`open()` returns a file descriptor when no error occurs.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "If a pipe is full, `write()` returns an error.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`last | grep ^lali | tail -10` shows the last ten logins of the user whose name starts with “lali”.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`rmdir` can delete directories that contain files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Parallel processes can inter‑condition one another and run in parallel by sharing resources.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`grep` is a UNIX command for text search.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `sed` the instruction `p` deletes the pattern space.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In `awk`, the predefined variable `ARGV` stores the number of command‑line parameters.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In `awk`, the `END` block runs before the last line is read.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`awk -F, '{ print $0 }' file.txt` prints all the lines in the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`mkdir dir1/dir2` creates `dir2` inside `dir1` relative to the current directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`test file1 -nt file2` checks whether `file1` is newer than `file2`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`fork()` creates a new process from an existing one.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the Zombie state the process no longer exists and has been removed from the process table.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`proces = program` – a process is the same thing as a program.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "PID is short for Parent ID.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Processes can be created only by `fork()` or by starting a program.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The shell recognises three quoting mechanisms: \"double quotes\", 'single quotes' and `back‑quotes`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A FIFO is not a file type.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In `awk`, `NR` stores the number of the current line in the current file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`getpid()` returns the PID of the newly created child.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`grep` never changes the file it processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `sed`, an empty address matches only the first line of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`cat filename` displays the contents of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`test -n string` checks whether `string` is empty.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "When a process reads from a pipe, `read()` always returns 0 no matter what is in it.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A “broken pipe” means the pipe is open only for writing.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`write(1, \"Incep\\n\", 6)` prints “Incep” to the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`echo $v` displays the value of the variable `v`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Hard links can be created between different file systems.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`stdout` is descriptor 0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "To move a directory into another directory you use `movedir d1 d2`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The `/boot` directory contains system commands.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In `c1||c2`, `c2` always runs regardless of how `c1` ends.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Internal pipes are created in the Unix kernel’s internal memory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`for(i=1;i<=10;i++) fork();` creates ten processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "With shared file locking, the shared region cannot be read simultaneously by multiple processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`sort -c` checks whether a file is sorted.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`$*` expands to all arguments as one string, whereas `$@` expands to the arguments as separate strings.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A newly created process enters `ReadyMemory` if there is not enough RAM.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Every process necessarily passes through `ReadyMemory` after creation.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "SSTF can indefinitely postpone some requests.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A process is executing when the CPU is running its instructions.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Once a file is locked it can no longer be accessed, modified or deleted.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the i‑node mechanism there are three levels of indirection: single, double and triple.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`write` returns 0 if it writes nothing.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The `awk` utility cannot process text files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The path Created → ReadyMemory → Preempted → RunUser is taken by the highest‑priority process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`g=stiu; p=ceva; echo $g p` prints “stiu ceva”.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`fork()` returns 0 in the parent, the child’s PID in the child, and −1 on error.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In `RunKernel` state kernel‑mode instructions execute.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`sed s/e/E/g fis1 > rez` sends its output to the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A file is a sequence of bytes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "You can show the value of the variable `SHELL` with `echo $SHELL`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A web cache keeps the most recently used pages in pools.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `sed`, the `g` flag of `s` replaces all occurrences in the line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the sequence `c1&c2`, `c2` runs in the background.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Secondary memory exists only on systems with virtual memory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`$$` is the PID of the parent process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`expr index \"1234567\" 73` returns 3.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The first stage of command‑line processing is splitting it into elementary commands.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Main memory holds the programs and data of all processes in the system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Parallel processes run simultaneously but do not interact or cooperate.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `sed`, address `n` selects only line `n`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`popen` opens a pipe and the new process executes the given command.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "After `fork()` the child does not inherit the parent’s file descriptors.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In `Created` state a process is born via the `pipe` system call.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A disk cache keeps copies of the most recently accessed disk sectors.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "File specification may be generic, absolute or relative.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Connecting commands with `|` makes the first command’s stdout feed the second command’s stdin.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`wc -w` counts words.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The path Created → ReadyMemory → RunKernel → RunUser is followed by a higher‑priority process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`grep -w tiger jungle.txt` prints every line containing the word “tiger”.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`sed -n p file` prints each line twice.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`$#` stands for the command‑line arguments themselves.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`val=$(expr 2 + 2); echo \"Valoare: $val\"` prints `Valoare: $val`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Semaphores synchronise concurrent processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`for f; do; echo $f; done` lists all files in the current directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "SLTF serves the requests on a track in reverse order.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`expr dog \\> cat` outputs `dog \\> cat`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The command `man man` is forbidden under Linux.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The backslash escapes the special meaning of the next character.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The impure part of a process changes while the program runs.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `c1&c2`, the two commands run one after the other.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`awk '{print $NF}' file` outputs the last word of each line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`$*` returns the number of command‑line arguments.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`shift n` shifts the positional parameters n places to the right.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Reading from a pipe does not consume the data.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Deadlock detection is performed only when a prevention mechanism is present.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A process that calls `wait` or `waitpid` can receive the child’s termination status after the child has exited.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "dup() associates the open file with the unused descriptor supplied as argument, returns that descriptor, and makes it refer to the same file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`sed -n p file` prints every line once.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The test `[ $# -gt 1 ]` checks whether the number of arguments is greater than 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`$#` returns the number of arguments passed to the command.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The command `test expr` evaluates the expression and returns exit status 0 or 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "With `umask` I can change default permissions but I cannot view them.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The path Created → ReadyMemory → Preempted → RunUser can be taken by a process with lower priority than the others in the system.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`grep -c expr file` displays the number of lines that contain the searched sequence.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the shell, putting `&` in front of a variable assigns it its value.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A command returns exit status 0 when it finishes successfully.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`echo $PATH | grep $(pwd)` finds the current directory inside the PATH value.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A Unix file name may contain up to 255 ASCII characters (letters, digits, `.` and `_`).",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the shell, `(list)` is executed in a subshell.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`awk '{ if($2 == \"FP\") print $0 }' file` prints only the lines whose second field is `FP`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The environment variable LOGNAME holds the name under which the user logged in.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Standard error is file descriptor 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The `/sys` directory provides information about hardware devices and drivers.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Ken Thompson and Dennis Ritchie worked on Multics before they developed Unix.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`awk '/pattern/ {print $0}' file` is equivalent to `awk '/pattern/' file`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`fork()` is the main Unix system call for creating processes, but it is not the only one.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Every operating system has its own way of organising data on the hard disk.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`sed -E 's/^([a-z]*) ([a-z]*) ([a-z]*)/\\3 \\2 \\1/ g' file` outputs the first three words of each line in reverse order.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`cut -d: -f5 f` prints field 5 (using `:` as separator) from every line of file `f`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The interrupt raised by a peripheral to the CPU is a synchronous method.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`/lib` or `/lib64` contains shared libraries needed by programs at run time.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "An unlimited amount of data can be written to a pipe.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`$*` and `$@` both expand to all positional arguments.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`uniq` is never used together with `sort`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`echo $PATH | grep $(pwd)` changes the user's permissions on the current directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`echo calculator >> filename` appends the text `calculator` to the end of `filename`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`for color in red blue green; echo $color` prints `red blue green`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The `tee` command copies standard output to a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "With mandatory locking the kernel enforces locks on file regions and blocks conflicting I/O until the lock is released.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `command arg1 arg2 …`, `arg1` is referenced as `$1`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`for f; do echo $f; done` prints all command‑line parameters.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`$?` gives the exit status of the previous command.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`awk '/pattern/ {print $0}' file` prints every line that matches the pattern.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In dynamic memory allocation a process may occupy several partitions but no more than three.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A command returns a non‑zero exit status when it ends unsuccessfully.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`while false; do ps; sleep 100; done` is an infinite loop that repeats every 100 s.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Every Unix disk has a root directory from which other directories and files descend.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The environment variable PS2 contains the secondary prompt.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`sort -d` compares only letters.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`for ((;;)); do read a; done` is an infinite loop.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`{ echo da; echo nu; } > file` writes `da` and `nu` into `file`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `c1 & c2`, `c1` runs in the background and `c2` in the foreground.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`expr string : ing` returns 3 because the last three characters match.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`for(i=1;i<=10;i++) fork();` creates 10 processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "After `dup2(3,2)` everything written to stderr is sent to descriptor 3.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`grep gr711 /etc/passwd | cut -d: -f1` prints the login names of users in group 711.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`awk '/[a-z]/ { print }' file.txt` prints only the columns containing lowercase letters.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Unlike a program, a process is dynamic and behaves differently from run to run depending on context.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The backslash `\\` escapes the special meaning of the next character.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`grep -E '^(.*) (.*) \\1$' file` prints lines that start and end with the same word.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In Unix, relative specification means giving the whole path starting from the root directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`grep if file1 file2` prints the lines in `file1` and `file2` that contain the word `if`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`command > file` and `command 1> file` have the same effect.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`command < file` and `command 0< file` have the same effect.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `write(fd[1], \"message\", 4)` you write via descriptor 1; in `read(fd[0], …)` you read via descriptor 0.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The pure part of a process’s user context in memory does not change while it runs.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "When a zombie is reaped by its parent it is removed from the process table.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`finger` shows the users who have logged in during the last month.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`test …` is equivalent to `[ … ]`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`[^chars]` in a regular expression is the negation of `[chars]`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "After `pid=fork(); if(pid==0) fork();` there are three active processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "After the same code there are two active processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`ls -d` shows file contents.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`wait()` waits for a child to end and returns its status.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "An external FIFO cannot be opened at either end by an arbitrary process.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Processes are created either by executing programs or by calling `fork()` explicitly.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Unix files can be specified only absolutely or relatively.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`echo $PATH | grep $(pwd)` changes directory permissions.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`command >> file` overwrites `file` with the command’s output.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`movedir d1 d2` moves a directory into another directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`exec()` creates a process and loads a new program into the child.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Virtual memory lets a system address more memory than is physically available.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`echo` deletes text from the screen.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`dup2()` first closes the descriptor given as second argument then duplicates the first descriptor onto it.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `awk` you access the nth word on the current line with `$n`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`ps` shows all files previously accessed.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`file filename` tells you what type of file `filename` is.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`[1-7]` matches any digit from 1 to 7.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Reading from a closed pipe returns 0 irrespective of its previous content.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A critical section is non‑interruptible.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Unix ends the current process with the `close` system call.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`[ $# -gt 1 ]` checks if the argument count exceeds 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`touch` makes a directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In `awk`, NF stores the current line number.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "The user context is the part of a process’s address space accessible in user mode.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`echo ceva | sed 'y/abc/ABC/'` outputs `CeVa`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`./cauta.sh > cauta.log` appends errors to `cauta.log`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`./cauta.sh >> cauta.log` appends errors to `cauta.log`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`grep` can take a list of files, not just one.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "PS1 holds the primary prompt.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "The field separator in PATH is `:`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`wc` prints the number of lines, words, and bytes in a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`test expr` evaluates the expression and returns 0 or 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`/home` is not a top‑level directory in Unix.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`cat file` displays its contents.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`sed 's&/bin&/bong&g' /etc/passwd` shows `/etc/passwd` with `/bin` replaced by `/bong`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A process runs in user mode during system calls and in kernel mode for application code.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Deadlock prevention is achieved by controlled resource allocation.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "You refer to the first command‑line parameter with `$1`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A child process initially shares the parent’s code.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`who` lists the users currently logged in.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A process ends either by calling `exit()` or by receiving a fatal signal.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`for(i=1;i<=10;i++) fork();` creates 1024 processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`for v; do echo $v; done` equals `for v in \"$@\"; do echo $v; done`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`cd ..` moves to the parent directory.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`ls -l` shows read, write, and execute rights on files and directories.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`awk '{print $0}' nf` prints only the first line of the file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In `c1 || c2`, `c2` runs only if `c1` succeeded.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`expr calculator : '\\(...\\)'` prints `cal`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`/var` stores variable data such as logs, spools, and temp files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`popen` opens a pipe and then calls `fork()`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "PID is the number assigned to a file.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In `pwd; { cd ..; pwd; }; pwd` the last `pwd` prints the parent directory of the one printed first.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`split(s,a,c)` cuts string `s` into fields stored in array `a`, using `c` as separator.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`ls; fis; mv fis fis_new; ls` prints `fis`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "In the shell, `(list)` runs in the current shell.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`grep -i word` searches case‑insensitively.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In the compound example the last `pwd` prints the same directory as the first.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`x=\"abc\"; echo \"${x}abc\"` prints `abcabc`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`/usr` holds user programs, libraries, and docs.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Appending `&` makes the command run in the background.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`/proc` is a virtual file system showing processes and system status.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Single quotes `'...'` suppress all special meanings except of `'` itself.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Single quotes suppress all special meanings except `$` ``  and `\\` and `\"`? (Opposite.)",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`fork()` returns 0 in the child, PID in the parent, and −1 on error.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Processes can communicate via FIFO even if they do not know the FIFO’s name.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "EUID means effective user ID.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`/boot` holds boot‑loader files and kernels.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "``command`` captures the command’s output.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`find . -perm 775` finds all files in the current directory with permission 775.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Unix text files use a single LF character as line terminator.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`ls -a` lists all directories and hidden files.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "NR holds the current record number, starting at 1.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`$*` returns all arguments as a single string.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`/dev` contains device files that represent hardware devices.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "CPU polling of a peripheral is a synchronous method.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "When a pipe is full, writers block until a reader consumes data.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "``val=`expr 2 + 2`; echo \"Valoare: $val\"`` prints `Valoare: $val`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "To set `;` as field separator you can use `awk -F';' …`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`ps -u username` lists the user’s processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "Calling `fork()` twice results in two parallel processes.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "A positive value returned by `fork()` is the parent’s PID.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Standard input is descriptor 2.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Forms like `$name`, `${name}`, `${name-word}` substitute the value of variable `name`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`awk '/pattern/' file` prints all lines containing the pattern.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "A process runs application code in user mode and system calls in kernel mode.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "In `c1 && c2`, `c1` runs in the background.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "Advisory locking blocks I/O operations on locked regions until the lock is released.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`grep s/1/0/g file1` replaces `1` with `0` globally in `file1`.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    },
+    {
+      "question": "`ls -lh` shows file sizes in human‑friendly units.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "True"
+    },
+    {
+      "question": "`awk '/[0-100]$/ {print}' file.txt` prints lines ending with numbers in the range 0‑100.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": "False"
+    }
+  ]
